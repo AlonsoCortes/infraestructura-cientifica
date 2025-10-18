@@ -1,5 +1,5 @@
 # Archivos que no se van a subir al repositorio
-.gpkg
-.ipynb
-.csv
-.xlsx
+*.gpkg
+*.ipynb
+*.csv
+*.xlsx
