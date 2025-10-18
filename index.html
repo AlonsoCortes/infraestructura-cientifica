@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Infraestructura Científica</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- MapLibre GL JS CDN --> 
+    <script src="https://unpkg.com/maplibre-gl@^5.6.2/dist/maplibre-gl.js"></script>
+    <link href="https://unpkg.com/maplibre-gl@^5.6.2/dist/maplibre-gl.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="contenedorApp">
+        <header>
+            <div class="barraNavegacion">
+                <h1>Infraestructura Científica</h1>
+                <div class="contenedorCategorias">
+                    <select id="filtroCategorias">
+                        <option value="all" selected>Todas las categorías</option>
+                        <option value="Analizadores / Detectores / Monitores">Analizadores / Detectores / Monitores </option>
+                        <option value="Confocal / Electrónica / Óptica / Estereoscópica">Confocal / Electrónica / Óptica / Estereoscópica</option>
+                        <option value="Procesamiento / Conservación / Esterilización">Procesamiento / Conservación / Esterilización</option>
+                        <option value="PCR / qPCR / Secuenciación">PCR / qPCR / Secuenciación</option>
+                        <option value="Masa / Infrarroja / Raman / UV-Vis / FTIR">Masa / Infrarroja / Raman / UV-Vis / FTIR</option>
+                        <option value="Clúster / Servidor / Estación de trabajo">Clúster / Servidor / Estación de trabajo</option>
+                        <option value="Difractómetro / Radiometría / RX">Difractómetro / Radiometría / RX</option>
+                        <option value="Sistemas de simulación / Visualización 3D">Sistemas de simulación / Visualización 3D</option>
+                        <option value="HPLC / GC / FPLC / UHPLC', 'Potenciostato / Galvanostato">HPLC / GC / FPLC / UHPLC', 'Potenciostato / Galvanostato</option>
+                        <option value="Flujo / Fluorescencia', 'Fermentador / Reactor">Flujo / Fluorescencia', 'Fermentador / Reactor</option>
+                        <option value="Impresión 3D / Escaneo', 'Drones / Vehículos / Robots">Impresión 3D / Escaneo', 'Drones / Vehículos / Robots</option>
+                        <option value="Sensores / Estaciones / Plataformas">Sensores / Estaciones / Plataformas</option>
+                        <option value="Reometría / Termogravimetría / Calorimetría">Reometría / Termogravimetría / Calorimetría</option>
+                        
+                    </select>
+                </div>
+                
+                <button id="ajuste" class="boton-vista-nacional">
+                    Vista nacional
+                </button>
+                
+            </div>
+        </header>
+
+
+        <div class="contenido">
+            <div class="contenedorMapa">
+                <div id="map">
+                    Mapa
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    <script type="module" src="main.js"></script>
+</body>
+</html>

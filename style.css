@@ -1,0 +1,197 @@
+/* estilos default */
+:root{
+    --primary-color: #1E90FF;
+    --primary-dark: #104e8b;
+    --secondary-color: #FF7F50;
+    --secondary-dark: #aa4f2e;
+}
+/* Variables generales*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+/* Estilos particulares*/
+
+.contenedorApp {
+    height: 90vh;
+    width: 99vw;
+}
+
+    header {
+        background-color: var(--primary-color);
+        width: 100%;
+        padding: 10px;    
+    }
+
+        .barraNavegacion {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+        
+        .boton-vista-nacional {
+            background-color: #117864;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            padding: 6px 12px;
+            font-size: 13px;
+            cursor: pointer;
+            transition: background 0.3s ease;
+        }
+        .boton-vista-nacional:hover {
+            background-color: #0E6251;
+        }
+
+        .maplibregl-popup-close-button {
+            font-size: 25px;         /* 🔹 aumenta el tamaño del ícono “x” */
+            color: #0E6251;          /* 🔹 color institucional */
+            font-weight: bold;       /* 🔹 hace que se vea más visible */
+            top: 4px;                /* 🔹 ajusta separación superior */
+            right: 6px;              /* 🔹 ajusta separación lateral */
+            background: transparent; /* 🔹 sin fondo */
+            border: none;
+            cursor: pointer;
+            transition: color 0.2s ease;
+            }
+            .maplibregl-popup-close-button:hover {
+            color: #117864;          /* 🔹 cambia a verde al pasar el mouse */
+            }
+        
+
+            
+    .contenido{
+        height:100%;
+        width:100%;
+        display: flex;
+        margin: 10px;
+               
+    }
+    .btnMenu{
+        display: none;
+    }
+
+
+    aside{
+        border: 1px solid gray;
+        background-color: white;
+        z-index: 1;
+        height: 100%;
+    }
+    .contenedorCategorias{
+        border-bottom: 1px solid gray;
+    }
+    
+    #filtroCategorias{
+        margin:12px;
+        padding: 4px;
+        border-radius: 7px;
+        border: 1px solid gray;
+    }
+    .headerLeyenda h3{
+        margin:12px;
+    }
+    .itemLeyenda{
+        display: flex;
+        align-items: center;
+        margin: 5px;
+    }
+    .colorLeyenda{
+        height:12px;
+        width: 12px;
+        margin: 8px;
+        border-radius: 50px;
+        border: 1px solid gray;
+    }
+    .contenedorMapa{
+        flex:1;
+    }
+    .btnFav{
+            position: absolute;
+            z-index:1;
+            width:40px;
+            border: none;
+            display: block;
+            top: 70px;
+            right: 10px;
+            background-color: white;
+            border-radius: 50%;
+            padding: 6px;
+            border: none;
+            cursor: pointer;
+        }
+
+
+    #map{
+        /*display: flex;
+        justify-content: center;
+        align-items: center;*/
+        width: 100%;
+        height: 100%;
+        border: 1px solid gray;       
+}
+
+.listaFavoritos{
+    position: absolute;
+    top:120px;
+    right:15px;
+    background-color: white;
+}
+
+/* Reactividad */
+
+@media (max-width: 650px) {
+    #ingresarDatos{
+        width: 60%;
+    }
+    .visualizacionDistancia {
+        width:60%;
+        text-align: center;
+        margin: 10px 0;
+    }
+    .btnMenu{
+        background-color: white;
+        color: gray;
+        width:40px;
+        height: 40px;
+        border-radius: 20%;
+        cursor: pointer;
+        padding: 5px;
+        border: none;
+        display: block;
+        position: absolute;
+        top: 140px;
+        left: 15px;
+        z-index:2;
+    }
+
+    .btnFav{
+        top: 135px;
+        right: 10px;
+        
+    }
+    .listaFavoritos{
+        top:190px;
+    }
+
+    /*Mueve el sidebar a un aposición negativa para desaparecerlo*/
+    aside {
+        position:absolute;
+        transform:translateX(-100%);
+        
+        border: none;
+    }
+    aside.activo{
+        transform:translateX(0);
+        
+    }
+
+    .contenedorCategorias {
+        border: none;
+        padding: 50px 0 0 0 ;
+    }
+}
+

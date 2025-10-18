@@ -1,0 +1,1512 @@
+Nombre
+"Analizador de carbono, hidrogeno y nitrogeno"
+Microscopio confocal olympus fv1000 multifotonico
+Microscopio confocal de disco giratorio 3i marianas
+Citometro de flujo-microscopio amnis image stream mark ii
+Microscopio olympus ix81 tirf
+Microscopio olympus mvx10
+Microscopio nikon te300 invertido
+Microscopio zeiss axioskop
+"Sistema xtreme, bruker"
+Microscopio compuesto axio scope a1
+Refrigerador/incubador shaker 2 niveles
+"Equipo para analisis y documentacion de geles, chemi doc xrs"
+Pikothermal cycler para pcr estandar o punto final
+Arktik thermal cycler para pcr en tiempo real
+Cromatografo de gases acoplado a espectrometro de masas de cuadrupolo unico
+Equipo de espectroscopia  de fluorescencia
+"Espectrometro de masas de sector magnetico con fuente de plasma acoplado inductivamente, icp-sfms"
+"Robots bipedos, cuadrupedos y hexapodos con diferentes grados de libertad"
+Sistema emotiv de 14 canales para la adquisición de señales eeg
+Fpgas (field programmable gate arrays) o kits de desarrollo con hardware digital reconfigurable
+Estacion de trabajo mac pro de 12 nucleos 
+Mso5204b osciloscopio digital de sen?al mixta de 4 canales 
+"2 servidores controlador, procesador con 16 núcleos, 32 gb ram ddr3, unidad de 1 tb, interfaz de red con capacidad de 4 a 10 gige de fibra, interfaz de red con capacidad de 1 a 2 gige"
+"2 servidores neutron, procesador con 16 núcleos, 32 gb ram ddr3, unidad de 300gb. interfaz de red con  capacidad de 4 a 10 gige de fibra, interfaz de red con capacidad de 1 ó 2 gige."
+"Servidor monitoreo, procesador con 8 núcleos, 32 gb ram ddr3, unidad 500 gb sata2, interfaz de red con capacidad de 2 a 10 gige de fibra, interfaz de red con capacidad de 1 ó 2 gige."
+"2 servidores de almacenamiento. procesador con 16 núcleos, 64 gb ram ddr3, unidad 300 gb, interfaz de red con capacidad de 4 a 10 gige de fibra, interfaz de red con capacidad de 1 ó 2 gig e"
+Termociclador instrumental de laboratorio 
+Equipo para preparacion de electrodos y dispositivos bajo atmosfera inerte
+Cluster xiuhcoatl del cinvestav
+Espectrofluorímetro uv-vis-ir
+Sistema de fluorescencia de rayos x portàtil sandra i
+Espectròmetro i-raman bw&tek de 1064 nm
+Espectrómetro de luz infrarroja con transformada de fourier
+Prototipo de equipo de anàlisis por difracciòn y fluorescencia de rayos x 
+Microscopio correlativo evoma25
+Microscopio petrogràfico axioscope zeiss
+Stereomicroscopio edmund optics 40-100 x
+Hp dl580 gen9 cto svr
+Lightcycler 480 instrumement 
+Concentrados de vacio speedvac 
+Lector de microplacas
+Microscopio binocular invertido
+Bioanalizer
+Amplificador para registros intracelulares
+"Microscopio optico, sistema de translacioon x, y"
+Microscopio estereoscopico marca carl
+Vaporizador clasico para isoflurano
+Microscopio confocal de ultima generacion
+Xplore doble tornillo micro-compounder
+"Fotodocumentador, sistema de captura de imagenes de geles y membranas"
+Sistema de electroporacion de onda cuadrada
+Sistema para transformacion mediante biobalistica
+Camara de crecimiento para plantas con tecnologia led
+Sistema de pcr tiempo real digital
+Concentrador de vacio
+Espectropolarímetro
+Documentador de imagenes
+Sonicador
+Esterotaxico digital
+Esteromicroscopio (esterolupa y sistema de iluminacion)
+Zetasizer nano para la medicion del tamaño de particula
+Microscopio de fluorescencia
+Equipo computarizado de conducta
+Cajas de actividad motora 
+Microscopio confocal (4 laseres)
+"Ms detector selectivo de masas con ei, bomba turbomolecular, acoplable al cromatografo"
+Espectrometro de masas de alta resolucion
+Potenciostato-galvanostato marca autolab
+Potenciostato palm
+Microscopio estereoscopico
+Cromatografo de liquidos (hplc) con detector de uv-vis
+Detector de fluorescencia para hplc
+Detector de electroquimico para hplc
+Cromatografo de gases-masas
+Citometro de flujo attune nxt afc br-laser flujo acustic 2 laser azul y rojo
+Genetic analyzer equipo de secuenciacion y genotipificacion 
+Difractometro de rayos x de monocristales
+Microscopio electronico de barrido
+Difractometro de rayos x de polvos
+Microscopio optico vertical
+Microscopio optico invertido
+"Cromotografo de liquidos, espectrometro de masas qtof"
+Microscopio de microdiseccion laser arcturusxt-ti
+Cromatografo preparativo (fplc)
+"Cromatografia liquida (hplc) analítica cromatógrafo líquido de alta resolución (hplc) waters incluye módulo de separación, detector uv/vis y detector ir y software de trabajo empower. "
+Citometro de flujo de applied biosystems
+Ultracongelador vertical
+Termociclador de tiempo real 
+Homogenizador de alta presion
+Equipo de dispersion dinamica de luz (dynamic ligth scattering; dls) 
+"Equipo para pcr en tiempo real
+ step one plus	"
+Difractometro de monocristal d8 venture
+Espectrometro de emision optico
+Generador de hidruros cma
+Extension de lejano uv
+Humificador de argon
+Sistema de enfriamiento genco
+Centrífuga refrigerada
+Microscopio óptico
+Termociclador
+Espectrofotometro
+Microscopio de investigacion 
+Cromatografo de gases
+Equipo de fisisorcion de nitrogeno
+Sistema de medicion de actividad de agua
+Secador por aspersion
+Cromatografia de liquidos/ espectrometro de masas triple cuadruplo tiempo de vuelo
+Microscopio electronico de barrido 
+Reactor para el pretratamiento de explosion a vapor
+Cromatografo liquido de alta resolucion - hplc
+"Liofilizador colector de acero inoxidable liofilizadora de 6 l, 115 v 60 hz labconco"
+Ultracentrifuga refrigerada
+Espectrofotometro microvolumen
+Sistema de pcr en tiempo real
+Multidetector de escaneo de espectros
+Citometria de flujo bd
+Electroforesis capilar
+Espectrometro de masas maldi-tof
+Termociclador simpliamp
+Cromatografia liquida de alta resolucion de intercambio anionico
+Extrusion para laboratorio
+Microscopio confocal de barrido laser
+Equipo para pruebas estáticas y dinámicas de materiales
+Maquina especializada en electro erosion por penetracion
+Equipo de difraccion de rayos x
+Difractometro de rayos
+Espectrometro de masas
+"Magnetometro 
+magnetómetro de muestra vibrante con dispositivo semiconductor de interferencia cuántica"
+Espectrometro de masas acoplado a equipo tga y cromatografo de gases
+G.nautilus sistema portatil e inalambrico para registro del electroencefalograma
+G.usbamp sistema multicanal para registro de bioseñales de alta resolucion
+G.hiamp es un amplificador de bioseñales multimodal de 80 canales
+Equipo de fluorescencia de rayos x multiproposito
+Reactor hidrotermal a altas presiones y calentamiento asistido por microondas
+Equipo de secado por aspersion ultrasonico 
+Maquina de electroplatinado
+Sistema de tomografia computarizada
+"Impresora 3d fortus 900mc
+equipo de modelado por deposición en fundido"
+"Impresora fortus 400mc
+manufactrua aditiva: modelado por deposición fundida"
+"Objet500 connex3
+manufactura aditiva por fotopolimerización"
+Prox dmp 320 manufactura aditiva con polvos metálicos
+Bioplotter 3d
+Scanner 3d handyscan 3d
+Scanner 3d 
+Espectrometro de masas shimadzu gcms-qp2010 se
+Sistema nanoraman: espectrometro raman acoplado a microscopio de fuerza atomica
+Molino y dispersor de nanoparticulas
+Cromatografia liquida de alta eficacia 
+Analizador toc-l
+Sistema de reaccion acelerada por microondas
+Cromatografia liquida de alto rendimiento (uhplc) con detector de arreglo de diodos y de indice de refraccion.
+Cromatografo con detector de iones
+Espectrometro de fluorescencia dispersiva de rayos x
+Espectrometro de emision atomica de plasma acoplado inductivo
+Microscopio binocular plano acromatico
+Turbidimetro y conductor de corriente
+Espectrofotometro de absorcion atomica
+Sistema de evaporacion termica por haz de electrones (e-beam)
+Equipo de conteo de fotones individuales tcspc
+Fotodiodo de avalancha ultra rapidos
+Mesa optica
+Espectrometro
+Espectrometro de resonancia paramagnetica electronica (epr)
+Espectrometro para fotoluminiscencia
+Contador de particulas cpc
+Sistema de vacio turbomolecular
+Espectrometro de rayos x
+Radares de alta frecuencia para medición de corrientes marinas
+Estacion meteorologica ultrasonica
+"Sonda para conductividad, salinidad y profundidad"
+Microscopio raman dispersivo
+Calorimetro diferencial de barrido
+Acelerometro triaxial de fuerza balanceada
+Espectrometro de alta resolucion de rayos gamma
+Contador de rayos beta
+Equipo de microscopia raman y fuerza atómica
+Profilometro optico con portasubstrato motroizado y con control por computadora
+Vindta  medicion de alcalinidad y carbono inorganico disuelto
+"Ctd sbe-19 plus  sensor de conductividad, temperatura"
+Ecosonda garmin
+Analizador elemental por fluorescencia de rayos x
+Espectrofotometro raman
+Espectrometro de infrarrojo por transformada de fourier
+Sistema de citometría de flujo
+Espectrometro de masas de alto rendimiento
+Secuenciador de adn de ultima generacion
+Bioanalizador de quimica clinica
+Nefelometro para analisis de proteinas
+Equipo para real time pcr.
+Cromatografo de liquidos de ultra-resolucion con detectores de uv/
+Microscale thermophoresis monolith
+Shaker 
+Microscopio de contraste de fases
+Camara de electroforesis protean
+Espectrómetro de lc/ms/ms híbrido triple cuadrupolo
+Microscopio confocal
+Quantstudio flex real time pcr system
+Nanodrop
+Nano drop one spectrophotometer clave nd one
+Ultracongelador de -86°c
+Equipo de qpcr 
+Sistema para analisis y transferencia v3 western workflow 
+Microscopio compuesto binocular
+"Microscopio invertido de contraste de fases 
+"
+Citometro de flujo bd
+Termociclador en tiempo real
+Luminometro
+Termociclador punto final
+Analizador de imagenes
+Sistema de electroforesis miniprotean
+Citometro de flujo bd accuri c6
+Microscopio electroquímico de barrido
+Ehd2 ultra thin film thickness (tribometro medidor de pelicula lubricante ultra-delgada)
+Acelerómetro triaxial fuerza balanceada
+Plataforma tecnológica para sistemas de georreferenciación de indicadores de violencias
+Microscopio electrónico de barrido jeol modelo jsm-6010plus
+Difractómetro de rayos x
+Vibratorno leica_vt10005
+Metalizador de placas electronicas
+Prensa para ralizacion de placas.
+Generador de ondas lecroy.
+Generador de ondas agilent
+Cluster de 10 nodos (estaciones de trabajo)
+Horno de convección natural
+Cámara bioclimática
+Perfilometro optico 3d nanovea
+Tribometro mtm - mini-traction machine 
+Fotodocumentador typhoon
+Robots humanoides tipo nao (3)
+Cámara bioclimática thermo scientific
+Ultracentrífuga thermo fisher
+Liofilizadora labconco
+"Equipo de laboratorio.potenciostato/galvanostato monocanal parstat 4000+ con booster, acoplado con microbalanza electrónica de cristal a cuarzo 922a. orden de compra 1m600380
+
+potenciostato/galvanostato parstat 4000 con microbalanza de cristal a cuarzo seiko qca922a y accesorio de disco rotatorio rde. incluye electrodos  para disco rotatorio y resonadores chapados en titanio/oro para pruebas de dinámica iónica y electrodeposición con microbalanza. incluye booster para pruebas con baterías, además de osciloscopio tektronix mdo de 350 mhz y fuente de poder monocanal keithley 280s-60-3 y computadora dell xps. celdas   qacl3 y qacl4 para electromicrogravimetría, además de celdas para pruebas de corrosión. monocanal. utiliza el software versastudio y winqcm, además de zsimwin para modelación de datos de impedancia."
+Quibit espectrofluorometro
+Pcr punto final  (termociclador)
+Cabina de seguridad biologica clase ii
+Acelerómetro triaxial de fuerza balanceada
+"Ultracongelador revco uxf, thermo scientific"
+Espectrofotómetro evolution 300 pc
+Incubador digital con agitación
+Dcode universal mutation detection system
+Centrigufa refrigerada allegra 64r
+Sistema miniextrusor para el procesamiento de polímeros fundidos con puertos de adición de aditivos obteniendo como producto acabado fibras o cintas de materiales poliméricos
+Rf & dc magnetron sputtering
+Plataforma de aislamiento antivibratoria
+Microscopio macrozoom
+Escáner láser terrestre
+Cámara digital de microscopía
+Base de traslación lineal de pasos
+Controlador para bases de traslación
+"Inmuno cap 100e
+phadia 100 está diseñado para realizar pruebas de alergias y autoinmunidad y para ofrecer resultados de pruebas clínicamente relevantes que ayuden a los médicos en el tratamiento de los pacientes.
+procesamiento automatizado de ensayos de elia e immunocap
+un panel de alérgenos detecta sensibilizaciones a 650 alérgenos y a 90 componentes alergénicos.
+un amplio menú de autoinmunidades que incluye marcadores de autoinmunidad clínicamente relevantes para evaluar las enfermedades autoinmunes más comunes, como la artritis reumatoide, la celiaquía o las enfermedades de tejidos conjuntivos.
+todas las pruebas se pueden realizar a partir de una sola muestra.
+funcionalidad de pruebas reflejas configurable por el usuario.
+"
+"Cobas e411. es un analizador de electroquimioluminiscencia fiable con amplios rangos de edición y que procesa analitos en suero, plasma y orina.
+cuenta con una gran calidad analítica con tiempos cortos de incubación."
+Incubadora de co2
+Campana de bioseguridad
+Nucleofector core unit
+Odyssey infrared imaging system
+Liofilizadora
+Autoclave
+Blotting system
+Zoe fluorescent cell imager
+Multilector de placas sinergy
+Congelador -20°c
+Sistema de procesamiento de imagen
+Base de traslación
+Base de nano-rotación
+Lente macro para fotografía
+Analizador hematologico automatico kx-21n
+Termociclador para pcr en tiempo real 
+Termociclador verity 96 pozos
+Congelador vertical mod. cv-16 
+Congelador horizontal mod. chv-15 
+Cabina para manejo de desechos
+Thermostat plus
+"Reacti therm, modulo para calentar tubos en seco "
+Camara digital para microscopio
+"Calorímetro de titulación isotérmica (itc200, en la solicitud  inicial)  affinity itc de  ta instruments, de, usa. "
+Sonicador diagenode
+Refrigerador con congelador
+Muestreador de aire biotest 
+Unidad generadora de agua helada
+Ivis luminar xr caliper
+Analizador de geles chemidoc
+Espectrometro de fluorescencia de rayos x
+Equipo de secuenciación masiva
+Microscopio metalografico
+Microdurometro vickers
+Montadora de muestras
+Realidad virtual
+Secuenciador masivo de nueva generación
+Escaner láser terrestre
+Secuenciador capilar
+Complementos de unidad de realidad virtual inmersiva 1 workstation. 
+Servidor 
+"Pcr tiempo real, quantstudio 12kflex"
+Drone scaner 3d
+Unidad de análisis de alta afinidad biomolecular
+Cromatógrafo de gases con espectómetro de masas 
+Bio-plex® 200 system
+Estereomicroscopio
+Espectrómetro de energía dispersiva (eds) quantax 200 de bruker
+Fotodocumentador
+Espectrómetro de longitud de onda (wds) quantax 200 debruker
+Citómetro de flujo cell  sorting
+Equipo de catodoluminiscencia relion cl
+Citómetro de flujo con analizador multiparamétrico
+Estandares spi para microanàlis
+Centrífuga con refrigeración
+Incubadora de propósitos grales
+Congelador vertical
+Cromatógrafo hplc 1260
+Congelador vertical -20 °c
+Cdigit
+Microcentrifuga 
+Cromatografo de liquidos uplc
+Cerradora de productos liofilizados inyectables
+Endosafe pts. paquete pts instrumentado
+Ultracongelador -80 grados
+Rcs muestreador de aire
+Caja de aislamiento 
+Centrifuga refrigerada
+Sartochek para sistema de ultrafiltracion
+Bomba sartojetpara sistema de ultrafiltracion 
+Plataforma sistema filtracion
+Medidor de carbón y nitrógeno orgánico total
+"Sistema de jaulas para roedores, ventilacion individual complementaria"
+Espirometro digital multifuncional
+Lavador de microplacas inmunowash
+Refrigerador /congelador -20° 4.1 pies
+Ar lasser confocal 
+Procesador histológico multifuncional
+"Bomba peristaltica con masterflex p/cabezal
+"
+"Centrifuga de mesa ambiental.modelo universal
+"
+"Incubadora digital con agitacion orbital
+"
+"Horno esterilizacion modelo htp-70
+"
+"Unidad de 18 jaulas metabolicas
+"
+"Refrigerador con congelador mod. mpr-414f-pa panasonic
+"
+"Refrigerador con congelador mod. mdf-5312-pa
+"
+"Congelador vertical l capacidad de 24 pies mod. mdf-u731m
+"
+"Instrumentos y equipo de hidridación y lectura de microarreglos: equipo de hibridacion de microarreglos (tecan), lector laser de microarreglos inno scan 710 (inno sys).
+"
+"Instrumentos y equipos para secuenciacíon nucleotídica: motic compound microscopes/trinocular, daigger automated microplate reader, iq scientific iq260 benchtop ph meter, eppendor research pipettes, kit # 17 pipettes 1/ea, vortex genie-ii 120v, veriti 96-well thermal cycler 0.2 ml, 3130/3100 avant genetic analyzer , eppendorf multiuso centrifuga refrigerada modelo 5804l, thermo scientific owl easy cast, eppendorf multiuso centrifuga model 5804, eppendorf rotors and adapters for 5804.
+"
+"Instrumentos y equipos para la producción 
+de proteínas recombinantes:
+sistema bioreactor de 7 litros con biocontrolador ez-control configurado para cultivos microbianos, arreglo para toma de muestra esteril, software bioxpert version 2, tarjeta de expansion analog-digital/digital-analog (adda) para conversion de señales, bomba peristalica de velocidad variable y control remoto para lotes alimentados, sensor de o2 en fase de gas en flujo de salida del bioreactor y sensor de co2 en fase de gas en flujo de salida del bioreactor.
+
+"
+Servidor de calculo científico
+"Instrumentos y equipo para la purificación de proteínas recombinantes: incubadora con placa de agitación 311ds (labnet), agitadores de placas y tubos orbit 1000 digital shaker (labnet), accesorios adicionales, orbit digital shaker flat plataform with monslip rubber mat, orbit 1000 digital shaker flask clamp, orbit 1000 digital shaker universal spring, agitador con control de temperatura (vortemp56 labnet), vortemp56 0.4/0.25 ml adapter pack, vortemp56 thermal cycling, juego de 3 micropipetas de doce canales, centrifuga refrigerada de mesa st16r, rotor 48x1.5 ml,  rotor de angulo fijo fiberlite f15-6x100y, tubo conico de 50 ml para rotor f15-6x100y, agitador vortex minima vibracion y accesorios, microcentrifuga sorvall legend micro 21 y 21/r con rotor.
+"
+"Actualización de equipo para procesamiento de muestras de ácidos nucleicos: stepone plus real time pcr system upgrade, rotor de angulo fijo para 30 tubos de 1.5 a 2.0 ml, adapter 4x15 ml conical 2/pk, adapter 1x50 ml 2/pk.
+"
+Autoclave de piso cap. de 75 lts
+Incubadora de co2 chaqueta de agua
+Modulo de muestreo automatizado mca. health care (auto sampler)
+Rotor assembly for rcs high flow
+Campana de seguridad biológica
+Incubadora refrigerada por sistema 1 peltier
+Refrigerador para farmacia revco 659 l
+Congelador de alto desempeño revco con puerta de vidrio
+Potenciometro 
+Lector de microplacas actualizable spectra max
+Refrigerador de laboratorio forma value
+Sistema de aspiración de virutas
+Espectrofotómetro 
+Microcentrifuga
+Centrifuga con temperatura -20 a +40 °c
+Congelador vertical 20.3 ft -10 a -20°c
+Refrigerador para laboratorio
+Estufa de incubación
+Incubadora co2
+Agitador orbital
+Ultracongelador 18.9 ft
+Incluidor de parafina
+"Histoquinette, modelo tp1020"
+"Microtomo de rotación manual, modelo rm2125"
+Gabinete de seguridad biológica
+Microscopio invertido
+Autoclave eléctrica
+Equipo de anestesia inhalada
+Analizador veterinario  hematología  bcvet
+Equipo vettest analizador  idexx
+"Microscopio óptico bicabezal, modelo dm750 con cámara"
+Lector de placas
+Congelador horizontal cofre 8.8 pies
+Refrigerador de 16.7 pies cúbicos
+Microscopio eclipse e200l marca nikon
+Microscopio eclipse e200r marca nikon
+Jaula para conejos mod. rgs-g101-6
+Espectrofotometro multivolumen marca epoch t.m.
+ centrifuga de hematocrito mod. chk24 marca kitlab
+Liofilizadora personal 2.5 lts. mod. freezone marca labeonea
+Microscopios cuerpo estereoscopico con zoom marca nikon
+Sistema completo de pantalla antiviento
+Cabina de seguridad para productos biológicos
+Sistema de crio-preservación
+Electroporador
+Incubadora con shaker
+Servidor
+"Campana de flujo laminar vertical
+ "
+Equipo de catodoluminiscencia a color chromacl
+Microscopio electrónico de barrido jeol it300
+Espectrofotómetro de emisión atómica por acoplamiento de plasma inducido (icp-aes)
+Reometro rotacional
+Espectrofotómetro de absorción atómica
+Ionosonda 
+Piko thermal cycler para pcr estandar o punto final
+Arktik thermal cycler para pcr cuantitativo en tiempo real.
+Estación de trabajo con procesar intel core i7 3770 
+Reference station
+Cluster ws exxact mtdisplay spectrum xeon v3.
+Lector de microplacas multimodal 
+Proyector lcd
+Espectro-fotometro ultravioleta visible con esfera integradora
+Correntómetro
+Microscopio confocal lsm 800kmat
+Microscopio invertido equipado con incubadora para mantenimiento de preparaciones celulares
+"Sistema de pcr tiempo real
+
+"
+Microtomo manual
+"Baño de flotación
+"
+Horno para incubar y desparafinar 
+Estación de tinción
+"Microscopio óptico, con cámara para captura de imágenes y procesador externo"
+Centrifuga ventilada
+Campana de bioseguridad clase ii 
+Microscopio invertido 
+" autoclave vertical digital de 40 litros
+"
+"Incubadora con agitacion orbital refrigerada
+"
+" computadora laptop notebook
+.
+"
+Espectrómetro de emisión atómica con plasma producido por microondas mp-aes
+Secador por atomización 
+Horno de alta temperatura 
+Hplc acoplado a un espectrómetro de masas
+Equipo de velocimetría de partículas por imágenes 
+Placas calentadoras con movimiento
+Empalmadora de fibra óptica
+Extractor de lípidos
+Complemento ideal para el rapid digestor. rapid still ii
+Dispositivo de remosion de humos
+Extractor de fibra
+Incubadora de co2 para laboratorio (cámara de acero inoxidable) 150 l heracell 150i 
+"Accesorio: replacement hepa & inline filter kit, for 310, 370, 3110 & 8000 series"
+"Digestor labconco, num. cat 2301200"
+Termociclador c1000
+Equipo para analisis y documentacion de geles geldec xr+
+Sistema bioreactor de 3 litros para cultivos microbianos
+Estación de pruebas
+Sistema de encuestas por teléfono
+Microscopio electrónico de barrido con presión variable
+Analizador gravimétrico de sorción de vapor de agua 
+Eclipse
+Fourier transform infrared spectrometer 
+Analizador de textura 
+Centrifuga refrigerada universal de mesa 
+Microscopio afm  
+Termociclador 
+Sistema completo para liofilizacion 
+Automuestreador 
+Sistema automático para cromatografía de baja presión biologic lp system
+Difractómetro de rayos x de monocristal
+Espectrofotómetro uv/vis/nir
+Analisador termo-mecanico
+Sistema de rotoevaporacion
+Simulador de vehículo tipo cabina
+"Luminex multiplex assays.
+equipo para análisis masivos de inmunoensayos.
+los inmunoensayos basados en la tecnología luminex xmap (analisis de perfiles de  multianalitos) permiten la detección y cuantificación simultáneas de múltiples proteínas (citoquinas, quimiocinas, factores de crecimiento, etc.) y ha sido muy valioso para el estudio integral de sistemas biológicos. esta tecnología de alto rendimiento puede medir hasta 80 metabolitos en una misma muestra, produce resultados comparables a elisa pero con mayor sensibilidad, eficiencia, velocidad y rango dinámico. además, la posibilidad de analizar múltiples analitos al tiempo resultan menos costosos."
+Detector de fotones individuales en el infrarrojo
+Detector de fotones individuales en el régimen del infrarrojo
+Equipo de espectroscopia de fotoelectrones emitidos por rayos-x (xps)
+Equipo para fabricación de pcb por desvaste de placa de cobre.
+Máquina de colocación de componentes electrónicos sobre pcb
+"Estación de trabajo, para cómputo científico. rocesador intel ® xeon ® e5-2687w (20m cache, 3.10 ghz, 8.00 gt /s intel ® qpi) 8 cores. memoria   128 gb (8 x 16gb) ddr-3-1600 2rx4 ecc reg rohs, 2disco duro  2.0 tb sas 2.0 7.2k rpm  128m 3.5 (megalodon), "
+Cámara termográfica.
+Sistema tsp (temperature sensytive paint system)  para medir distribución de temperatura en modelos de álabes de turbinas
+" equipo de medición de esfuerzos a través de galgas extensiométricas.para medir esfuerzos térmicosen álabe de turbina de gas, rotor de microturbina y rotor de laboratorio de turbina de vapor. "
+Cabrestante eléctrico para ctd
+Microfuente de cobre para difractómetro de rayos x de monocristal
+Dispositivo de baja temperatura para difractómetro de rayos x en polvos
+Equipo de electroforesis capilar
+Cromatógrafo de gases con fid/tcd
+"Ultracongelador
+
+"
+"Centrífuga refrigerada
+
+"
+"Refrigerador
+
+"
+"Campana de bioseguridad
+
+"
+Genetic analyzer (secuenciador de adn de 8 capilares). 
+Impresora de pasta para soldar
+Horno de convección para soldadura de componentes de bandeja
+Sonda multiparamétrica ctd/svp
+Sensor de dióxido de carbono
+Sensor de velocidad del sonido de superficie
+Plataforma de microarreglos agilent
+Horno de hibridacion
+Termociclador de gradiente
+Sistema de electrophoresis submarine gel kits
+Microscopio recto
+Plataforma de secuenciacion masiva de nueva generacion miseq
+Desktopworkstation dell precision tower 7910 xcto (cool master con monitor samsung)
+Refrigerador de ultra baja temperatura
+"Estación de citogenética para captura y análisis de cariotipos, incluyendo accesorios, cpu, monitor, regulador y microscopio"
+"Motor marino 4 tiempos fuera de borda de 30 hp, con accesorios"
+"Cámara digital para microscopio hd 5 mp (2592 x 1944), incluye funte de alimentaicón usb, cable hdmi, tarjeta sd, mando a distancia rc2"
+"Microscopio biológico, incluye accesorios"
+Lancha tipo zodiac
+Fotomicroscopio óptico
+Perfilador acústico de corrientes por efecto doppler adcp
+Dsas sistema de alerta de seguridad del buque
+Generador de onda reales con capacidad de generación de arbitrarios
+Impresora 3d maker bot
+Escaner 3d de mano
+Megóhmetro para comprobación de resistencia de aislamiento
+Cámara térmica infraroja
+ ultracentrifuga sorvall thermoscientific
+Microtomo de congelación
+"Micrótomo de parafina rm 2125
+"
+Centrífuga refrigerada 5810 r 
+Vector network analyzer
+Generador analogico de senyales
+Equipo de análisis térmico tga-dta
+Campana de flujo laminar horizontal
+Bioanalizador agilent 2100
+"Pcr digital qx200 droplet reader biorad
+sirve para amplificar fragmentos de dna"
+Estación de retrabajo con bomba neumática
+Brazo de retrabajo ajustable para ensamble de pcb
+Precalentador de convección para soldadura de tarjetas multicapa
+Tarjeta de desarrollo fpga de última generación
+"Homogenizador fast prep
+"
+Fotodocumentador de imágenes
+"Concentrador de ácidos nucléicos
+"
+Homogenizador fast prep
+Citofluorometro de flujo facsaria fusion
+Rotavapor
+Pantalla de proyección
+Switcher
+Grabador extron
+Microfono
+"Microscopio  invertido (fluorescencia, campo claro y contraste de fases) automatizado, con micro incubadora para control de temperatura"
+Estación total robótica
+Vehículo aéreo no tripulado
+Nano spray dryer
+Analizador de vapor de sorción 
+Difractómetro de rayos x de monocristales
+Ngc scout chromatography system
+Cromatografo de gases gow-mac
+Biorreactores applikon
+Emisor-receptor de ultrasonido controlado manualmente 
+Espectrómetro de imagenología por resonancia magnética de bajo campo
+Campana de flujo laminar de acero horizontal
+Incubadora de acero inoxidable analoga
+Incubadora de acero inoxidable digital con timer
+Microscopio digital biológico
+Refrigerador vertical
+Lampara de mesa con lente de 4 dioptrias
+Autoclave de mesa eléctrica
+Autoclave inoxidable manual eléctrica
+Termobaño inoxidable análogo
+Termobaño inoxidable digital con timer 
+Condu-ph140 medidor para mesa de ph
+Contador de colonias con lápiz electrónico
+Agitador vortex
+Quanti-tray 2000
+Horno de inducción para la determinación de azufre
+Espectrómetro de emisión atómica de plasma acoplado inductivamente
+Analizador portátil de fluorescencia de rayos x
+"El reómetro mcr 502 de anton paar es un reómetro modular compacto, el cual permite generar información sobre la estructura de la muestra mediante la combinación de métodos ópticos y dieléctricos con estudios reológicos, entre otros tipos de estudio de caracterización de materiales, es uno de los reómetros más precisos y exactos en el mercado."
+Liofilizadora de mesa de 1 litro con  colector recubierto de ptdfe 
+Medidor de masa molecular mal+d326vern zetasizer nano zsp dispersion dinamica de luz (dls) 
+Medidor de calor malvern-microcalitcc200 equipo de laboratorio.
+"Espectofotometro,  cary eclipse bundle"
+Espectrómetro raman 785 nm
+Espectrómetro raman 532 nm
+Espectrómetro de resonancia magnética portable con sensor unilateral mole a 3.26 mhz
+Difractómetro de rayos x monocristal con detector eos s 2 ccd y sistema criogénico cryojets con rango de temperaturas de 85 a 400k. incluye accesorios correspondientes a la oc lp15/2014
+"Cromatografo: sistema gc-qqq 7890b/7000d, sistema de cromatografia de gases"
+Planta de nitrogeno liquido
+Detectores g6120b lcms simple cuadrupolo value line
+Espectometro de rmn digital de alta capacidad avance iiitm hd 500
+Espectrometro de masas de alta resolcuión
+Espectrómetro de resonancia magnética nuclear de 600 mhz 
+Equipo de sinterizado láser para metales
+Microscopio electronico de transmision
+Microscopio de fluorescencia 
+Clúster de supercómputo
+Servidor tipo rack para virtualización
+Equipo de laboratorio -estufa incubadora/secadora
+"Equipo de laboratorio -baño seco para tubos de 1.5 ml
+"
+3 switch top of rack (tor). switch de red ethernet topof-rack con capacidad de 10 gige para el clúster de fi-ware. al menos 48 puertos. puerto de administración fuera de banda. fuentes de alimentación redundantes.
+Equipo de laboratorio termociclador esclavo
+Equipo de laboratorio -incubador
+"2 switch administración. switch de red ethernet con capacidad de 1 gige para el clúster de fi-ware. 25 puertos. puerto de administración fuera de banda, fuentes de administración redundantes."
+"Equipo de laboratorio horno electrico para secar y esterilizar.
+"
+"Equipo de laboratorio -baño seco y agitador vortex
+"
+Equipo de laboratorio -termociclador de gradiente con 96 pozos
+"Equipo de procesamiento de datos y perifericos	
+"
+Equipo de laboratorio
+"Equipo de monitoreo. equipo de monitoreo de clúster para fi-ware. pantalla, teclado y touchpad con estrada usb"
+"Consola de administración. consola de administración para el clúster de fi-ware, con
+interfaces ethernet rj45."
+"Servidor de visualización. procesador con 16 núcleos, 64 gb ram ddr3, 2 coprocesadores de procesamiento paralelo masivo. unidad(es) de 7.2 tb sas. interfaz de red con capacidad de 1o gige."
+"Nodo de administración y de nombrado. procesador con 12 núcleos, 64gb ram ddr3. unidad(es) de 7.2 tb sas. interfaz de red con capacidad de 10 gige."
+"Switch de administración ipmi y de trafico. switch de administración ipmi con capacidad de 10 gige para el clúster de big data. al menos 9 puertos, capacidad de monitoreo de tráfico."
+"Equipo de monitoreo. equipo de monitoreo de clúster para big data. pantalla, teclado y touchpad con entrada usb."
+Equipo de laboratorio fotodocumentador
+"Consola de administración. consola de administracón para el clúster de big data, con
+interfaces ethernet rj45."
+"5 nodos de trabajo. procesador con 16 núcleos, 64 gb ram ddr3, unidad(es) de 36 tb sata. unidad de 1 tb sata2 7200rpm. interfaz de red con capacidad de 10gige. interfaz de red con capacidad de 1 gige"
+"Estación de trabajo. workstation tower. procesador con 12 núcleos, 256 gb ram ddr3. unidad de 256 gb de estado sólido. tarjeta gráfica nvidia quadro 4000 (o similar) 2 gb ram."
+Equipo de laboratorio thermomixer
+"15 servidores compute con 32 núcleos, 512 gb ram ddr3, raid 1 con una unidad de 512 gb de estado sólido, raid 2 con unida(es) de 7.2 tb, interfaz de red con capacidad de 4 a 10 gige de fibra, interfaz de red con capacidad de 1 ó 2 gige"
+Equipo de laboratorio -termociclador de gradiente
+Equipo de laboratorio -espectrofotómetro
+Equipo de laboratorio -ultracongelador
+Equipo de laboratorio -termociclador en tiempo real
+Equipo de laboratorio -sistema de electroforesis capilar
+Equipo de laboratorio -microscopio a2 led
+Equipo de laboratorio -estereomicroscopio
+Equipo de laboratorio -estacion de computo con cámara digital integrada
+Equipo de laboratorio -microcentrífuga
+Equipo de campo -balanzas con estacion y sensores remotos
+Equipo de laboratorio -refrigerador
+Equipo de laboratorio -campana de flujo laminar
+Equipo de laboratorio -congelador
+Espectrómetro de luz infrarroja con transformada de fourier portátil
+Sistema de reflectografia infrarroja de imagen virtual con escaner acoplado
+Viscosímetro-densímetro stabinger 
+Controlador del punto de inflamación pensky-martens
+"Equipo para determinar filtrado en frío, cloud & pour point"
+Controlador de estabilidad de oxidación
+Consola para extracción de savia
+Horno digital 
+Mufla digital
+Detector de silicio para partículas cargadas segmentado en las dos caras 16x16
+Espectrómetro de masas
+Cromatografo de líquidos uplc
+Mufla con 3 rampas de calentamiento
+"Equipo de medición redox, ph"
+Espectrofotómetro ultravioleta-visible
+Cromatógrafo de gases
+Analizador de carbomo
+Equipo para realizar mediciones tribologicas a escala micro y nano.
+Bureta digital automática
+Baño ultrasónico digital
+Digestor kjeldahl
+Termofóresis de microescala en su versión del equipo nanotemper monolith nt.115
+Sinterizado selectivo de polvos poliméricos
+Máquina universal de ensayos mecánicos
+Cámara termostática
+Scanner 3d
+Extrusor doble husillo
+"Controlador linea de filamentos
+estufa equipo filamentos
+mufla filamentos
+baño ultrasonico filamentos
+aspiradora de filamentos
+secador de pellets
+chiller
+aspiradora convencional"
+Analizador dsc
+Analizador tga 
+Espectrómetro infrarrojo
+Microscopio electrónico de barrido
+Microscopio topcon modelo sm 510
+Microscopio electronico de transmisión
+"Esterilizador vapor, modelo sc501e-1/en-285, marca matachana generador vapor, 1 puerta dimensiones camara 500 x 500 x 1020 mm pantalla tactil vol. 252"
+Gpu aceleradora tesla  
+Equipo para espectroscopía bombeo-prueba transiente con pulsos de luz ultracortos
+Equipo de termografía infrarroja activa con detección sincrónica
+ equipo de medición de campo de velocidades usando velocimetría de partículas por imágenes
+Difractómetro de rayos x 
+Sistema de electrofisiología automatizada qpatch 16x (sophion-biolin).
+Sistema de espectroscopia por dispersión de energía de rayos-x (eds) acoplados a los microscopios electrónicos de barrido y transmisión respectivamente. 
+Dron ebee sensefly
+Camara para dron ebee senesfly
+Citómetro de flujo modelo cytoflex
+Pcr en tiempo real
+Fermentador/ biorreactor
+Concentrator speedvac kit
+Citómetro de flujo con separador de células 
+Digitalizador de biomoléculas radiactivas con fotodocumentador de geles
+Microscopio estereoscópico de epifluorescencia axio zoom v16. carl zeiss
+Litografía láser de escritura directa para la fabricación de microdispositivos
+Potenciostato
+Microscopio electrónico de transmisión (met)
+El microscopio electrónico de barrido (meb) 
+Fuente de rayos x con micro enfoque de alto desempeño para microscopio de electrónico de barrido. 
+Sistema analizador seahorse analyzer xfe24
+Estereomicroscopio leica m205c
+Hplc (cromatógrafo líquido de alta resolución; agilent 1260 infinity)
+Microscopio electrónico de barrido sem-eds
+Camara monocromática 5.91
+Autorefractor
+Lensometro
+"Citómetro de flujo facs canto ii de la marca bd biosciences.
+se actualizó a 3 láseres (láser violeta), unidad hts para leer placas, cpu y software facs diva versión 7.0"
+Equipo 1: estación sismológica de banda ancha temporal
+Equipo 2: estación sismológica de banda ancha temporal.
+Equipo 3: estación sismológica de banda ancha temporal.
+Equipo 4: estación sismológica de banda ancha temporal.
+Lector de microplacas multiskan 
+"Microscopio bacteriológico con revólver séxtuplo koehler 6v/30w iluminación halógena de cuarzo, con cámara digital de 3 mp. "
+Estereomicroscopio con cámara digital 
+Campana de flujo laminar vertical de uso general sin extractor de gases 
+Centrífuga de mesa manual 
+Autoclave vertical eléctrica 
+Autoclave portátil eléctrica con regulador de temperatura y minutero. 
+Estufa incubadora 
+Termómetro electrónico digital 
+Plantscreen tm sc phenotyping system with fc and hyperspec de photon systems instruments (psi)
+Ultracongelador vertical de 19.4 m3. de -50 a - 86 °c
+Cámara de isoelectroenfoque
+Arktik thermal cycler para pcr estandar con base de gradiente de temperatura
+Equipo de monitoreo del suelo
+Microscopio electronico de barrido marca hitachi modelo su5000
+Cromatógrafo hplc
+Cromatógrafo de gases gc
+Equipo de ósmosis inversa
+Cluster de procesamiento computacional con infraestructura de computo basada en cpus y gpus
+Cromatografo de iones
+Microscopio espectroscopio raman
+Citometro de flujo bd lsrfortessa 
+"Sistema de microscopia de súper resolución elyra con 4 láseres de 405, 488, 561 y 640nm, con
+técnicas de microscopia de iluminación estructurada (sim), microscopia de fluorescencia de reflexión interna total (tirf) y microscopia de localización fotoactivada (palm)."
+Gabinete de bioseguridad
+Incubadora
+Centrifuga
+Cámara de revestimiento metálico para materiales no conductores
+Secador de punto critico
+"Maldi tof. espectrómetro de masas.
+
+maldi por sus siglas en inglés matrix-assisted laser desorption/ionization (desorción/ionización láser asistida por matriz) y tof por el detector de iones que se acopla al maldi y cuyo nombre procede también de sus siglas en inglés.
+"
+Espectrómetro de masas de trampa de iones lineal acoplada a cromatógrafo de líquidos de ultra alta resolución.
+"Espectrofotometro frontier perkin elmer de medio
+infrarrojo sistema modular: drift, celda sp02, sta 6000"
+Radiómetro lineal
+Espectrofotometro de emision de plasma acoplado inductivamente
+Analizador de follaje.
+Medidor portátil de fotosíntesis 
+Cromatógrafo de líquidos de alta resolución equipado con dos tipos de sensores (uv y esd)  y con inyector automático.
+Microscopio carl zeiss 
+Centrifuga de mesa.
+Homogenizador .
+Horno de microondas 
+Espectrofotómetro nanodrop
+Termociclador de tiempo real.
+Detector gama ortec/sistema de espectrometría
+Sistema de medición de flujo de savia.
+Sistema de fotosíntesis portátil.
+Parilla de agitación .
+Equipo para medir potencial hídrico en muestras vegetales.
+Medidor portátil de clorofila.
+"Detector de índice de refracción, de un cromatógrafo de líquidos."
+Refrigerador de 4 puertas.
+Limpiador ultrasónico.
+Horno eléctrico para secar.
+Termociclador lightcycler
+Baño ultrasonico
+"Esperoscopio trinocular con enfoque motorizado, cámara digital y analizador de imágenes, con monitor benq y computadora"
+Teñidor de láminas histológicas automático
+Procesador de tejidos
+"Baño seco
+"
+Vortex
+"El sistema de nano-penetrador ofreciendo la capacidad de prueba de doble cabezal para la conectividad de nano/micro escala, y ofreciendo fuerzas normales de 10mn, y laterales de 2mn"
+Sistema de rotavapor
+Sistema de liofilizacion
+Equipo lector automatico tl harshaw 
+Espectrofotómetro nanophotometer
+Centrífuga refrigerada. no. de serie 162173
+Microscopio vertical
+"El equipo es un horno que alcanza la  temperatura máxima de 2000 centígrados   y al mismo tiempo se le puede aplicar presión hasta 30,000 psi. "
+Secuenciador de mesa masivo paralelo con tecnologica de secuenciacion por sintesis
+Equipo de pcr digital
+Agitador de alta velocidad para microplacas y tubos
+Espectrofluorímetro 
+Equipo de pcr tiempo real light cycler 96
+Espectrómetro de masas amazon esi acoplado a hplc 
+Máquina de anestesia con ventilador
+"Sistema para medición de curvas presión/volumen en corazón porcino, con sistema de adquisición"
+Autoclave de vapor
+Equipo para química clínica
+Elisómetro
+Equipo para hematología
+Gasómetro
+Equipo para medición de composición corporal
+Potenciostato/galvanostato. no. de serie 16147008
+Electrodo de cilindro rotatorio pine rce 12-full. no de serie: 371614
+Computadora optiplex
+Clúster de cómputo de alto rendimiento de 7 servidores
+Ecosonda 
+Servidor especial 
+Microscopio 
+Microscopio electronico de barrido portatil
+Roseta muestreadora seabird
+Escáner por barrido láser
+Sistema de captura de movimiento vicon
+Escáner de luz estructurada
+Estación total
+Sistema de calorimetría indirecta para animales de laboratorio: (comprehensive lab animal monitoring system “clams” por sus siglas en inglés)
+Cromatografo de gases con espectrometro de masas de triple cuadrupolo
+Espectrómetro de masas de alta resoluiocion con dispositivo de ionizacion esi y separador de masas de quadrupolo - tiemp de vuelo
+Espectrómetro de masas maldi-tof/tofms
+Horno de secado
+Microscopio de fuerza atómica. dimension edge scanning probe microscope
+"Espectrometro de masas con ionizacion esi y apci, separador de masas de trampa ionica, modelo amazon sl (bruker daltonics), acoplado al cromatografo de liquidos uhplc ultimate 3000 (dionex, thermo scientific)
+						            	"
+Tomografo por coherencia óptica oct
+Microscopio dxr raman
+"Nanoimager-s oni, super-resolución"
+Espectrometros de resonancia magnético nuclear de 400 y 500 mhz
+"Sistema / hardcore 7 print core 
+"
+Potenciostato galvanostato con eisz 
+Sistema de microscopia de fuerza atómica
+Sistema para procesamiento de la miel
+Sistema estereoscopico automatizado para imágenes 3d	
+Autoclave	
+Plataforma aerea multiespectral
+Equipo de analisis de celdas de combustible tipo pem
+Secuenciador de electroforesis capilar automatizado
+Extractor automático de adn 
+Espectrometro/nanodrop
+Equipo difractometro de rayos-x de monocristal
+Difractometro automatico de rayos x para monocristal
+Microscopio electroquimico de barrido
+Sistema de cromatografia de liquidos de ultra alta resolucion
+Microscopio raman
+"Cromatografo de gases, inyector capilar universal"
+Espectrofotometro infrarrojo de transformada de fourier
+Cromatografo de gases con espectrometria de masas
+Termociclador biorad
+Microscopio de fluorescencia confocal leica tcs sp8
+"Electroforesis automatizada para análisis de proteínas.
+this automated platform for nucleic acid and protein analysis incorporates labchip technology into an integrated system that performs multiple electrophoresis steps in one. software analysis tools are offered for flexible data analysis."
+Camara de ambiente controlado
+Transiluminador
+Sistema para el registro conductual de roedores (sistema electronico de adquisicion de datos conductuales por medio de sensores)
+Equipo de computo cientifico gpus
+Difractometro de mono cristal para macromoleculas
+Termociclador de punto final
+Estacion de calentamiento y mezclado
+Titulador automatico
+Sistema de electroforesis y documentacion de imagenes safeblue
+Ultracongelador vertical 
+Máquina generadora de nitrógeno líquido
+Espectrómetro de microvolúmenes
+Microscopio estereoscópico
+Termociclador tiempo real con modulo de analisis de alta resolucion
+Espectrofotometro para microvolumenes
+Unidad confocal de disco giratorio
+Termociclador dual punto final con gradiente
+"Bioanalizador de adn, arn y proteínas"
+Espectrometro de resonancia magnetica nuclear con transformada de fourier
+Estacion de trabajo fija
+Fotoducumentador
+Rotaevaporador
+Analizador de aminoacidos
+Microscopio de epifluorescencia
+Osmometro vapro
+Sistema portatil para la medicion de fotosintesis y fluorescencia
+Sistema de analisis de imagen para medir raices de plantas
+Cromatografia liquida de alta resolucion
+Espectrofotometro uv-vis acoplado a stopped-flow
+Cromatografia de baja presion
+Procesador ultrasonico
+Sistema de filtracion por flujo tangencial
+Transiluminador de uv con procesador de imagenes
+Disruptor celular para la obtencion de homogenados enzimaticos
+Lector de placas para fluorescencia
+Bioanalizador agilent
+Biorruptor
+Calentador de titanio
+Termociclador pcr tiempo real
+Sistema automatizado de extraccion de acidos nucleicos
+Termocicladores punto final digital
+Estaciones de pcr 2
+Camara de electroforesis horizontal
+Termomixer mixmate
+Tanque nitrogeno liquido
+Camara de electroforesis secuenciacion
+Microespectrofotometro
+Homogenizador
+Sistema automatizado de calidad de agua para laboratorio
+"Cromatografo de liquidos (uhplc) con plataforma para cuatro fases moviles, desgasificador, automuestreador con varios racks de volumen variable, regulador de temperatura para la columna, detectores de fluorescencia, electroquimico con bomba cuaternaria de la marca thermo. todos los componentes son de la marca dionex. además cuenta con un regulador de voltaje para evitar posibles daños y utiliza el software camaleon."
+"Lector multiplaca varioskan, este equipo contiene diversos detectores para uv/vis, fluorescencia, luminicencia y ensayos con cultivos celulares ya que cuenta con regulador de temperatura y atmosfera de dioxido de carbono y nitrogeno"
+Baño metabolico y potenciometro 
+Fplc con automuestreador y detector a 280 nm con computadora dell
+Centrifuga refrigerada de alta velocidad de piso  con dos rotores de titanio y un regulador de voltaje para 220v.
+Incubador para digestibilidad in vitro
+Analizador de gases para estudios de cinetica ruminal
+Potenciometro-medidor de iones
+Analizador de gases automatizado para co2
+Transluminador marca
+Sistema compacto de documentacion de geles
+Secuenciador illumina miseq™ system. marca: illumina. modelo: miseq™system. catálogo: sy-410-1003
+"Camara de biobalistica. pds1000/he sin adaptador 
+marca: biorad
+"
+"Ultracongelador vertical.19.4 cu ft (548 l)
+
+"
+"Gene gun biorad: transferencia rapida y directa a celulas. sistema de biobalística helios gene gun 100/120v
+"
+Sistema de espectrometria de masas tipo oqq acoplado a cromatografia de liquidos
+Reometro hybrid discovery 
+Analizador de textura
+"Espectrómetro de masas, marca waters, modelo xevo g2 xs tof 4k, acoplado a un cromatógrafo de líquidos modelo acquity uplc h-class "
+Sistema portatil de fotosintesis y respiracion
+Sistema multi-pea cuantificar la fluorescencia que emite una hoja
+Porometro modelo ap4 delta
+Medidor wp4c de potencial de agua
+Medidor de potencial osmotico vapro
+Secuenciador automatico
+Citometro de flujo
+Camara termografica
+Procesador de tejidos automatico con vacio
+Histocentro modular. 
+Centro automatizado de tincion
+Liofilizadora freezone
+Microscopio leica dm2500 led
+Cromatografo de liquidos de alta presion equipado con detector de masas
+Reometro ares-g2
+Hplc agilent 1260 infinity
+Reactor sartorius biostat® cplus 15 l
+"Sistema para prueba de materiales modelo 5943, capacidad 1kn (100 kg, 112 lb)"
+Cell sorter con sistema de bioseguridad clase i
+Sistema de pcr-digital
+"Secuenciador myseq system, dna"
+Fluorometro
+Bioanalizador con computadora portatil
+Elipsometro espectroscópico uv-vis-nir
+Microscopio de infrarrojo
+Cromatografo de permeacion en gel
+Analizador termogravimetrico acoplado a espectrometria de masas
+Espectrofotometro infrarrojo por transformada de fourier
+Analizador elemental de chons
+Espectroscopio funcional del infrarrojo cercano
+Banda de esfuerzo para el electrocardiógrafo mac 5500
+Ultrasonido doppler 4d
+Digitalizador de placas
+Monitor materno-fetal
+Electrocardiógrafo de 15 derivaciones
+Equipamiento smt linea 01 automatizada para ensamble de componentes de montaje superficial en tablillas electronicas
+Equipo de fluorescencia de rayos - x
+Espectroscopia raman con focal
+Sistema de reaccion por microondas. sintesis de nanoparticulas
+Simulador solar
+Equipo de espectroscopia raman confocal acoplado con microscopia de fuerza atomica
+Estación de trabajo de un giroscopio de 3 grados de libertad
+Modulo completo de proyección térmica integrado por una pistola de arco eléctrico y un brazo de robot
+Sistema de monitoreo aereo
+Visualizacion 3d
+Equipo de extraccion con fluidos supercriticos
+Cromatografo de gases-espectrometro de masas
+Analizador termico simultaneo (dsc-tga)
+Analizador dinamico mecanico (dma)
+Analizador termogravimetrico
+Cromatografo de liquidos de alta resolucion
+Microscopio electronico de transmision de alta resolucion jem 2100
+Resonador de 3 teslas ge discovery mr 750
+Resonador de 3 teslas philips achieva tx
+Resonador de 7 teslas bruker pharmascan 70/16 us
+Silla para primates no humanos
+Helicoptero de cuatro rotores con computadora
+Dspace microlabbox
+Dspace ds3002
+Modular hardware
+Tarjeta de sensor dmd modulador de luz espacial (1)
+Analizador termico simultaneo
+Espectrometro infrarrojo por transformada de fourier
+"Difractometro de rayos x de alta resolucion con opciones de reflexión de rayos x, obtención de textura, orientación de cristales, etc. "
+Microscopio de campo cercano afm/nsom
+Generador vectorial de señales
+Equipo de difraccion de rayos x de polvos
+Equipo de medicion zetasizer
+Microscopio electronico de barrido/espectroscopia de dispersión de energía (sem/eds) 
+"Cromatógrafo de líquidos de alta resolución 
+"
+Speck finder microscopio de alta definicion con video
+Analizador de espectros opticos
+Empalmadora
+Ecosonda multihaz de alta resolucion
+Perfilador de corrientes de flujo
+Radar marino banda x de 25 kw de potencia
+Anemometro sónicos tridimensionales de alta precision
+Boya superficial diseñada para servir como plataforma de sensores atmosfericos 
+Sensor de corrientes y oleaje
+Espectrometro de masas de razones isotopicas
+Digestor avanzado de microondas
+Analizador de carbono organico total
+Sistema completo (varios sensores y registradores de datos conectados entre sí) para el método de covarianza turbulencia (o torbellinos).
+Torre que soporta el sistema de covarianza de turbulencias (o torbellinos) sobre el dosel del manglar. 
+Analizador de gas metano de canal abierto
+Autocorrelador
+Microscopio de transmision electronica
+Microscopio de fuerza atómica adaptado para microespectroscopía láser simultánea y técnicas de nanoespectrocopía óptica basadas en excitación láser amplificada con sonda
+Data acquisition system descripcion: sistema de registro con arreglos de multielectrodos en animales
+"Smart 3.0, advanced needs sistema de video que rastrea y analiza el comportamiento de cualquier animal  "
+Sistema de campo abierto -flexible-
+Sistema de evitacion activa/pasiva (gemini)
+Laberinto acuatico de morris
+Real-time polimerase chain reaction system
+Chemiluminescence and fluorescence western blot and gel imaging system
+Microplate reader
+Espectrometro de plasma acoplado inductivamente con espectrometro de masas
+"Cromatografo de liquidos, con automuestreador para acoplarse como separador accesorio  a un equipo de espectrometría de masas acoplado inductivamente a un espectrometro de plasma."
+Chromatography (uplc)
+Biorreactor/fermentador con capacidad para 1 litro
+Microscopio invertido axio observer
+Equipo de microtomografia computarizada de rayos x 
+Termocicladores touch screen
+Termociclador de tiempo real
+Equipo para analisis y documentacion de geles
+Microcentrifuga con display
+Sistema completo concentrador plus
+Sistema semiautomatizado para pruebas de microorganismos
+Microscopio de campo obscuro
+Espectrofometrometro de microvolumen
+Incubadora con agitacion
+Sistema de fotodocumentacion
+Termociclador punto final de gradiente
+Nanodrop one spectrophotometer
+Microscopio biologico triocular con tablet
+Thermomixer shaker eppendorf
+Microscopio confocal laser de barrido
+Equipo de quimiofluorescencia y fluorescencia para analisis de inmunodetecciones
+Equipo de registro in-vivo para roedor con realidad virtual y estimulacion optogenetica
+Espectrometro de masas con analizador de masa cuadrupolo y tiempo de vuelo acoplado a cromatografía de líquidos de ultradesempeño
+Tomógrafo de resistividad eléctrica 
+Estación de trabajo de sistemas de traslacion rotacional
+Espectrometro de fluorescencia de rayos-x por reflexion total (txrf)
+Cromatografo de gases acoplado a espectrometria de masas
+Permeametro para suelos contaminados
+Cilindro de captación de proyectiles
+Microcentrifuga refrigerada
+Cromatografo de liquidos de ultra resolucion (uplc) con detector de masas
+Espectrofotometro alpha-p ft-ir bruker
+Cromatografo de presion media ngc
+Sistema de microondas automatizado para sintesis
+Termociclador de pc tiempo real
+Calorimetro diferencial de barrido (dsc)
+Electroencefalógrafo de 40 canales
+Termociclador  lightcycler pcr- tiempo real
+Equipo de inmunoensayos por multiplexacion
+Microscopio de ángulo de brewster con elipsómetro
+Eeg compatible con resonancia
+Ultracongelador
+Refrigerador de laboratorio
+Homogenizador de tejidos 
+Microcentrífuga refrigerada
+Gabinete de seguridad
+Centrifuga de placas
+Accutherm microtube shaking incubator
+Cell sorter
+Citometro de flujo (facs)
+Reactor de deposición por evaporación quimica (cvd)
+Cajas metabólicas
+Laberinto radial automático para rata
+Ruedas de actividad locomotora
+Carro-péndulo
+"Homogeneizador
+"
+Ultracongelador 
+Microscopio triocular
+Microtomo
+Microtomo rotativo
+Invernadero automatizado
+Equipo para medir fotosíntesis
+Escaner de raíces 
+Estación de determinaciones kjeldahl
+Extractor automatico de lipidos soxtec
+Equipo para medir conductividad térmica
+Equipo complementario para monitoreo de la cámara climática y edificios.
+Cámara de clima variable binder
+"Equipo de cromatografia de liquidos con detectores pda, indice de refraccion y qda, con automuestreador y horno para columnas."
+Alpha mos nariz electrónica 
+Heliodon automático con dos axis
+"Ups industronic, on line doble conversion, bypass electronico/automatico                                                                                                             "
+Incubadora 
+Lector de adn y arn
+Estacion de trabajo portatil
+"Servidor de multiusuario (cluster híbrido de alto rendimiento, incluye 1 nodo maestro, 2 nodos esclavos, 2 nodos gpu, 1 servidor mds, 2 servidores oss, 4 workstations, incluye rack de 42u, 5 monitores, 5 teclados)"
+Reometro ar2000
+Biorreactor applikon 3 l
+Mesa óptica antivibratoria
+Láser de 8 w de potencia
+"Consola de unidades centrales de procesamiento (cluster) hibrido de alto rendimiento con las siguientes caracteristicas: 2 nodos de cómputo para servicios virtuales, 1 nodo gateway, 4 nodos de cómputo cpu en servidor quad y 28 discos duros de 3 tb"
+"Zetasizer nano zs, zen3600"
+Cámara de carbonatación. 
+Rack para pruebas de envejecimiento natural en materiales:  1 rack de caja negra en aluminio con sostenedores de prueba.
+Rack para pruebas de envejecimiento natural en materiales: 1 rack de exposición directa con cubierta de vidrio templado. 
+Camara de arco de xenon (qsun)
+Analizador de area superficial y porosidad
+Camara de uv spray (quv)
+Cámara cíclica de corrosion salina (qfog)
+Espectrofotometro uv-vis-nir
+Espectrofotometro data color (dc400)
+Túnel de viento aerodinámico subsónico
+Analizador de carbono orgánico total (toc)
+Potenciostato/galvanostato
+Estación de trabajo uvp
+Sonda ultrasónica 
+Medidor de corriente vector 3d 
+Medidor de corrientes vector 3d 
+Corrientímetro vectrino profiler  
+Cluster de cómputo de alto rendemiento para cómputo científico 
+Dron multi rotor para imágenes aéreas
+Analizador de tamaño y forma de partículas
+Canal de oleaje-corriente 
+Sistema de velocimetría de imágenes de partículas (piv) 
+Sistema de covarianza de vórtices
+Jet sky
+Campana de extracción de humos y flujo laminar vertical y horizontal
+Cabina de seguridad biológica clase ii tipo a2 de 120 cm
+Microscopio modular accesorio para el reómetro híbrido discovery
+Espectrómetro uv-vis nir con reflectancia difusa
+Generador de tráfico ixia
+Ultracentrífuga sorvall wx+ultra
+Potenciostrato/galvanostato 
+Máquina para colocación de componentes electrónicos 
+Termociclador base con gradiente
+Proflex 96-well pcr system
+"Penguin water-cooler system, complete system 20 x 20 cm"
+Horno de convección para soldado de componentes
+Estación de retrabajo para componentes bga
+Cromatógrafo  de gases  acoplado a espectrómetro de masas triple
+"Espectrofotometro de infrarrojo cercano, ft-nir "
+Sistema confocal espectral modelo tcs dmi8 marca leica 
+Estación de pruebas para tarjetas y circuitos empaquetados /134-635 con accesorios
+Analizador de señales para pruebas en vco/pll  / e5052b
+"Puntas activas de terminal simple, con fuente integrada."
+"Analizador lógico 34 canales, sincronía a 4ghz / 16801a"
+Generador de ondas arbitrarias
+Impresora de pasta de soldadura
+Equipo de colocación de componentes electrónicos en pcb
+Microscopio estereoscópico de inspección visual de soldadura
+Lavadora de stencil mediante ultrasonido
+Equipo de retrabajo/soldado para chips bga y otros encapsulados especiales
+Analizador de integridad de la señal sparq 3004e
+Autoanalizador de nutrientes
+Centro de inclusión arcadia h+c
+Bioimpresora 3d
+Elipsómetro espectroscópico para el rango infrarrojo 
+Espectrómetro micro raman confocal
+Celda de efusión para in
+Celda de efusión para aluminio
+Autoclave vertical
+"Lector de microplacas
+"
+Uplc waters
+Calorímetro diferencial de barrido
+Cromatografo de liquidos acoplado a espectrometro de masas (uhplc-esi-qtof)
+Centrífuga de 12 plazas
+Centrífuga de 24 plazas
+Refrigerador
+Congelador
+Analizador automático de química clínica
+Analizador automático de microplacas de elisa
+Placa de agitación con calentamiento
+Criostato de sobre mesa
+Microscopio de florescencia
+Centrífuga para microtubos
+Vaporizador de isoflurano
+Incapacitómetro
+Cajas con rueda de actividad
+Analizador elementa cn
+Espectrometro de infrarojo cercano
+Cromatografo de líquidos
+Cromatografo de gases/masas
+Espectrofotómetro de emisión óptica de plasma acoplado inductivamente (icp-oes)
+Cromatógrafo de gases acoplado a masas
+Cromatógrafo de gases  con detector de ionización de flama y microcaptura de electrones.
+Cromatógrafo de líquidos de alta resolución (hplc)
+ genetic analyzer 3130
+Vacufuge plus (concentración de muestras)
+Pcr tiempo real 2.0
+Pcr tiempo real 7500 fast
+Fotodocumentación de imágenes pharos fx
+Robot (manejo de líquidos)
+Bioruptor ucd 100 (sonicación de muestras)
+Bioanalyzer 2100
+Nanodrop 1000
+Fotodocumentador gel-doc
+Cromatografo de gases con detector de masas
+ soxhlet
+Miseq
+Microscopio semimotorizado
+Pcr tiempo real 1.5
+Centrífuga 5430
+Centrífuga universal 320r
+ pcr punto final veriti 
+ pcr punto final 9700
+ genetic analyzer 3500
+Elix 
+Estación de trabajo en tierra
+Mesa óptica smart table ots
+Tarjeta de sensor dmd modulador de luz espacial
+Impresora 3d
+Maquina para corte por laser
+Devanadora
+Aparato de control remoto
+Analizador de espectros rf
+Atomic layer deposition system
+Perfilometro
+Espectrómetro de fluorecencia de rayos x secuencial de longitud de onda dispersiva de alta eficiencia 
+Incubadora con agitación orbital
+Servidor para virtualización
+Horno de tratamiento térmico
+Prensa isostática en caliente 
+Physical vapor deposition (pvd)
+Celda láser
+"Cnc híbrida
+"
+Incubadora para prueba de demanda bioquímica de oxígeno
+Reactor bloque digital para digestión de demanda química de oxígeno (dqo)
+Horno digital (mufla)
+Estufa digital de convección
+Floculador automático (prueba de jarras)
+Espectroscopía de emisión óptica de descarga luminiscente (gdoes)
+Difractómetro de rayos x (xrd)
+Sistema de análisis termogravimétrico (tga)
+Tribómetro
+Baño maría para microorganismos coliformes
+Sistema de inyección de flujo
+Horno digital
+Mufla
+Espectrofotómetro
+Bloque reactor
+Horno
+Refrigeración
+Placa calefactora
+Incubadora de agitación con plataforma de sobre mesa
+Agitador vortex corning lse
+Electrodo ion selectivo de fluor
+Hplc y gpc (cromatógrafo de permeación en gel) de alta presión marca waters para la determinación de pesos moleculares en polímeros
+Tga (equipo para análisis termogravimétrico).
+"Estereomicroscopio
+"
+Super computadoras personal cerebro32 - 4
+Super computadoras personal cerebro32 - 1
+Super computadoras personal cerebro32 - 2
+Super computadoras personal cerebro32 - 3
+"Equipo micron iv producido por phoenix research labs (pleasanton, ca, eua) se utiliza para el
+análisis del fondo de ojo y la fluoroangiografía de la retina en animales pequeños de
+experimentación."
+Equipo para evaluar la presión intraocular
+Sistema de anestesia y monitoreo de oxígeno y frecuencia cardíaca
+El sistema de análisis de imágenes
+Sistema para evaluar la agudeza visual en animales de experimentación
+"El digitalizador (micro 14013) y el software (spike 2) son producidos por cambridge electronic
+design limited (reino unido). el micro14013 permite almacenar los datos de las ondas del erg, el evento digital y marcadores del registro de manera simultanea, a diferencia del digitalizador con el que se cuenta que solo permite obtener los datos de la onda, lo cual limita la capacidad de su
+análisis."
+Estereotáxico de ratón
+Sistema computacional (work station) acoplado al sistema de análisis de imágenes (image pro plus).
+Toma de agua marina
+Micro espectrómetro raman
+Estación de medición para caracterizar fotovoltaicos
+"Espectrómetro de masas acoplado a plasma inductivamente. permite análisis a niveles ultra trazas de metales, as y otros elementos. posee una bomba peristáltica de multicanal para la inyección de muestras, un nebulizador, una cámara de aislamiento y un automuestreador. requiere de argón y helio para su funcionamiento."
+Sistema de depósito por sputtering al alto vacío
+Sistema de evaporación térmica de alto vacío
+Sistema de espectroscopía uv-visible
+Potenciostato-galvanostato
+Espectrofotómetro infrarrojo con transformada de fourier
+Microscopio de fuerza atómica
+Sistema de depósito por sublimacion en espacio cercano
+Cromatografo de gases con interfase apgc para acoplamiento a triple cuadrupolo mod v2.0
+"Difractómetro de rayos x, marca bruker, modelo d8 advanced eco"
+Sistema automatizado para medir contenido de grasas y aceites y su índice de separación
+Espectrofotometro uv-vis y fluorescencia
+Equipo automatizado para la determiancióin de nitrógeno total y fósforo total en agua
+Microtox
+Microscopio de fuerza atómica (mfa)
+Equipo de cromatografía líquida rápida de péptidos y proteínas (fplc) äkta pure 25 m1 (ge healthcare life sciences).
+Equipo de dispersión dinámica de luz (dls) zetasizer μv (malvern).
+Homogeneizador ultrasónico (sonicador) (cole-parmer).
+"Equipo de cromatografia de liquidos de alta resolucion hplc, con sistema de preparacion de muestras.
+equipo de cromatografía liquida, escala analitica y
+semipreparativa,"
+Purificador de acidos nucleicos automatizado adn/arn
+Process 11 parallel twin-screw extruder - thermo fisher scientific
+"Sistema de bombas dosificadoras para la medición y control de ph, con sonda para lectura de temperatura"
+Equipo para medir de manera simultánea la conductividad eléctrica y el coeficiente seebeck de materiales termoeléctricos.
+Reometro modular anton paar mcr102
+Ultramicrotomo leica emuc7
+Muestreadores de polen aereo
+Secador a punto crítico
+Triturador de tejido
+Leica recubridor de oro
+"Equipo para la determinación de la conductividad térmica, difusividad térmica y calor específico."
+Analizador de nitrógeno dumas
+Extractor para determinacion de fibra cruda
+Mezclador de calor
+Extractor de grasa cruda 
+Densitómetro gs-900 para geles 
+Contador de células/hemacytometer 
+Termocilador para pcr
+Sistema láser continuum minilite ii. 
+"Fotodiodo de hgcdte modelo kmpv1-1 j1/dc de la marca kolmar technologies,"
+Medidor de energía ophir vega meter assay rohs
+"Modelo dg645 marca stanford research systems. generador digital de retraso de 4 salidas, disparo (“trigger”) hasta 10 mhz, generador interno de 100 μhz e interfaces gp-ib y rs-232, y ethernet."
+"Estación de traslación mts50-z8 - 50 mm (1.97) motorized translation stage, 8-32 and 4-40 taps de thorlabs"
+Sistema láser opus 532 2w - 2w 532nm dpss laser
+Centro de procesamiento de tejidos para histología (histoquinet)
+Aparato para realizar cortes a micro escala de tejidos (microtomo)
+Pcr en tiempo real de 96 pozos
+Ph metro 26-046-in14-225943-01
+Analizador de leche 26-046-in14-225943-02
+Lector de placas elisa 26-046-in14-225943-03
+Lavador para microplacas elisa 26-046-in14-225943-04
+"Perfilador de corrientes acústico doppler de tres frecuencias (0.5, 1 y 3 mhz)"
+Trampa de los sedimentos
+Trampa de sedimentos
+Mini-ctd p/pruebas 513
+Muestreador de las partículas en el agua de mar
+Cabina bioseguridad esco ii type a2
+Boya mclane
+Liberador acústico
+"Sistema de análisis de inyección de flujo
+autoanalizador de nutrientes en agua marina. es un sistema conformado por cuatro módulos, automuestreador, bomba peristaltica, procesamiento y mezcla y pc."
+Unidad liberadora
+Fraccionador rotatorio
+Termosalinometro (microcat) con sensor de oxígeno
+Sistema de filtración de gran volumen
+Tres velocímetros de corrientes acústicos doppler y un perfilador acústico de 1mhz
+Estación meteorológica
+Ecosonda
+Dos transductores de presión
+Plataforma flotante con autopropulsión
+Perfilador de corrientes acústico doppler de 2mhz
+Dos vehículos aéreos no tripulados
+Estación de trabajo de cómputo
+"Scanner láser. para fotodocumentar  (digitalizar) geles y membranas con proteínas teñidas con colorantes colorimétricos y fluorescentes.
+proteínas con marcaje fluorescente múltuple (cy2, cy3 cy5) y demás fluoróforos compatibles."
+Analizador bioquímico sanguíneo 26-046-in14-225943-05
+Texturómetro
+Reómetro
+Sistema de medición de resistividad
+Sistema de caracterización de semiconductores 
+Centrifuga refrigerada 26-046-in14-225943-06
+Contador gamma 26-046-in14-225943-07
+Microscopio estereoscopio 26-046-in14-225943-08
+Congelador de embriones 26-046-in14-225943-09
+Sistema destilador de agua 26-046-in14-225943-10
+Agitador de microplacas elisa 26-046-in14-225943-11
+Ecografo 26-046-in14-225943-12
+"Robots humanoides
+drones
+equipo complementario para robot pioneer p3-at"
+Jaulas metabólicas
+Sistema para medir la presión arterial para roedores
+"Equipo para electromiografía, conducción nerviosa y potenciales evocados multimodales"
+Magpix
+"Incubadora co2. thermo scientific, series 8000 wj"
+Microscopio invertido zeiss. modelo axio vert.a1
+Máquina de pruebas mecánicas universales servo-hidráulica con capacidad de 100 kn
+Analizador termogravimétrico
+"Consola  avance iii hdtm 400 para espectrómetro de rmn digital de alta
+capacidad "
+Dos micromanipuladores
+Microscopio
+Tarjeta digitalizadora
+Magneto dynamag 
+"Cámaras de electroforesis verticales 
+"
+Horno digestor de proteínas
+Ultrasonificador 
+Baño de agua digital 
+Aparato portátil
+Liofilizador
+Sistema de electroforesis
+Cento de tinción
+Sistema de electroforesis 
+Centro de inclusión de tejidos
+Bioanalyzer
+Equipo de disco de escritura rápida
+Agitadore
+Crosslinkers
+Lector de microplacas multimodal
+Pa 800 plus pharmaceutical analysis system (sistema de electroforesis capilar)
+Sistema chemidoc mp (sistema de fotodocumentación integral)
+Sistema de mejora para sonda
+"Equipo de buceo completo, incluye: regulador, octopus,  oceanic varios  s/s  computadora, manometro y 2 tanques con serie p56578 y p56642.                   "
+" equipo de buceo completo, incluye: regulador, octopus,  oceanic varios  s/s , computadora, manometro y 2 tanques con serie p56746 y  p56582.             "
+"Equipo de buceo completo, incluye: regulador, octopus,  oceanic varios  s/s, computadora, manometro y 2 tanques con serie p56580 y  p56668.            "
+Sistema de pcr digital en gotas  (qpcr en nanogotas)
+Difractometro de rayos x
+Aparato pero medición de metabolitos (glucosa) en sangre  
+Sistema de pcr tiempo real 
+Campana de flujo laminar 
+Fluorómetro 
+Sistema de epifluorescencia
+Sistema de microperfusión 
+Miroscopio nikon tie
+Espectrofotómetro uv-visible de barrido de doble haz marca thermo scientific
+Camara ambiental 
+Horno de microondas anton paar
+Generador de hiduros thermo scientific
+Autoclave automática
+Fuente de poder y camara de electroforésis
+Campana de flujo laminar
+Termociclador t100
+"La microscopía confocal es una técnica relativamente nueva que ha venido creciendo a pasos agigantados en los últimos años,  gracias  a los avances  en computación, en la tecnología de almacenamiento, sistemas de laser, sistemas de video y fotografía digital, filtros detectores de interferencia y fluoroforos para blancos altamente específicos,  logrando excelentes resultados en diversas ramas de la ciencia (medicina, biología, materiales, geología, etc.), esto, debido a las ventajas que ofrece frente a la microscopía óptica convencional.
+
+las principales ventajas que aporta la microscopia confocal son:
+	imágenes con mayor nitidez y contraste
+	mayor resolución
+	imágenes que permiten un estudio tridimensional de los especímenes analizados
+
+en biología la microscopia confocal permite la visualización de tejidos, células, microorganismos, y/o sus estructuras internas, incluyendo la dinámica propia de una célula viva y la interacción de los microorganismos con sus células hospederas, tanto en tejido vivo como células fijadas. también permite conocer la expresión, dinámica, localización e interrelación de las moléculas, estructuras subcelulares y/o células en un contexto tridimensional (3d) ó temporal (4d).
+"
+Estimulador eléctrico
+Sistema de baño de órganos 
+Cámara de fluorescencia 
+"Sistema de instrumentación
+"
+"Camara de point grey
+"
+"Sistema de mesa óptica
+"
+"Modulador a 110 mhz
+"
+""
+"Custom mirror 795 nm plpl 20cmroc 
+"
+"Custom mirror 795 nm plpl 50cmroc 
+"
+"Custom mirror 795 nm plpl 100cmroc 
+"
+Sistema de detección y cuantificación múltiple de biomoléculas basado en la tecnología luminex. 
+Sistema de alto rendimiento para microscopia fluorimétrica para estudios en fisiología
+Plataforma de microfluidos para monitoreo in vivo de cultivos celulares
+Analizador para la caracterizacion de biomoleculas biacore marca ge healthcare modelo bc x100 processing unit
+"Analizador de dna marca applied biosystems, modelo step one plus, modulo pcr en tiempo real"
+"Espectofotometro uv-vis nanodrop, marca thermo scientific, modelo nd-2000."
+"Sistema de transferencia trans-blot turbo, marca bio-rad, modelo 1704150"
+"Equipo marca bio-rad modelo chemidoc touch, catalogo 170-8370 incuye. computadora interna, camara ccd superenfriada"
+Concentrador
+"Homogenizador marca biologics, modelo 150vt, incluye generador ultrasonico."
+Generador de patrones
+Alineadora semiautomática de mascarillas 
+Horno de convección por gravedad 
+Horno de convección mecánica 
+Unidades de procesamiento húmedo (wpus)
+Microscopio digital
+Unidad de secado de punto crítico (cpd)
+Sensor de humedad y temperatura
+Camara digital multiespectral
+Sonda multiparametrica
+Sonda salinidad y conductividad electrica
+Sonda para medir ph
+"Sondas para la medicion de oxigeno disuelto
+"
+"Sonda para medicion de nivel de agua
+
+"
+"Sonda para medicion de nivel de agua y conductividad
+
+
+"
+Sensor de lluvia
+Desfibrilador semiautomático externo
+"Equipo de oxígeno medicinal portátil  ,  "
+"Ppms dynacool 9, sistema de mediciones de propiedades físicas "
