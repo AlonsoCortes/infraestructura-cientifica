@@ -12,3 +12,8 @@ cargarCapas(map);
 filtroCapa(map);
 vistaNacional(map);
 
+// === Mostrar / ocultar aside en móviles ===
+// document.getElementById('toggleAside').addEventListener('click', () => {
+//     document.querySelector('aside').classList.toggle('visible');
+// });
+
