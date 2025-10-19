@@ -45,6 +45,37 @@
         width: 100%;
         padding: 10px;
     }
+
+        .barraNavegacion {
+        display: flex;
+        align-items: center;       /* centra verticalmente los elementos */
+        justify-content: space-between; /* empuja el botón al extremo derecho */
+        padding: 10px 20px;
+        border-bottom: 1px solid var(--neutral-medium);
+    }
+
+        /* Título */
+        .barraNavegacion h1 {
+            font-size: 20px;
+            color: var(--neutral-dark);
+            margin: 0;
+        }
+
+    .boton {
+        background-color:var(--primary-medium);
+        color: var(--neutral-white);
+        border: none;
+        border-radius: 4px;
+        padding: 6px 12px;
+        font-size: 13px;
+        cursor: pointer;
+        transition: background 0.3s ease;
+        }
+        .boton-vista-nacional:hover {
+            background-color: var(--primary-deep);
+        }
+
+
         
     .contenido{
         height:100%;
@@ -71,19 +102,7 @@
             border: 1px solid var(--neutral-medium);
             
         }
-            .boton-vista-nacional {
-                background-color:var(--primary-medium);
-                color: var(--neutral-white);
-                border: none;
-                border-radius: 4px;
-                padding: 6px 12px;
-                font-size: 13px;
-                cursor: pointer;
-                transition: background 0.3s ease;
-            }
-                .boton-vista-nacional:hover {
-                    background-color: var(--primary-deep);
-                }
+            
                 
         .contenedorCategorias{
             border-bottom: 1px solid gray;
