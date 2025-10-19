@@ -4,9 +4,20 @@
 // 2. Añade una fuente de datos de tipo GeoJSON que contiene los puntos de interés
 // 3. Añade una capa de tipo 'circle' para representar los puntos de interés en el mapa
 // 4. Define el estilo de los círculos (radio, color, borde) y utiliza una expresión 'match' 
-//    para asignar colores específicos según la categoría del punto de interés 
+//    para asignar colores específicos según la categoría del punto de interés
+
+import { generarPopupHTML } from './05_popUp.js';
 
 export function cargarCapas(map){
+    // === 1️⃣ Leer variables CSS desde :root ===
+    const estilos = getComputedStyle(document.documentElement);
+
+    const colorPunto = estilos.getPropertyValue('--primary-light').trim();        // #A3E4D7
+    const colorClusterBajo = estilos.getPropertyValue('--primary').trim();        // #48C9B0
+    const colorClusterMedio = estilos.getPropertyValue('--primary-medium').trim();// #17A589
+    const colorClusterAlto = estilos.getPropertyValue('--primary-dark').trim();   // #117864
+    const colorClusterMax = estilos.getPropertyValue('--secondary-blue').trim();  // #154360
+    const colorBorde = estilos.getPropertyValue('--neutral-dark').trim();         // #424949
 
     map.on('load', () => { 
         map.addSource('puntosInfraestructura_Source', { 
@@ -14,7 +25,7 @@ export function cargarCapas(map){
             //data: 'https://services2.arcgis.com/RVvWzU3lgJISqdke/ArcGIS/rest/services/nombregeografico/FeatureServer/0/query?where=1%3D1&objectIds=&geometry=-75.2920%2C+4.3831%2C+-75.1151%2C+4.5297&geometryType=esriGeometryEnvelope&inSR=&spatialRel=esriSpatialRelIntersects&resultType=none&distance=0.0&units=esriSRUnit_Meter&relationParam=&returnGeodetic=false&outFields=*&returnGeometry=true&featureEncoding=esriDefault&multipatchOption=xyFootprint&maxAllowableOffset=&geometryPrecision=&outSR=&defaultSR=&datumTransformation=&applyVCSProjection=false&returnIdsOnly=false&returnUniqueIdsOnly=false&returnCountOnly=false&returnExtentOnly=false&returnQueryGeometry=false&returnDistinctValues=false&cacheHint=false&collation=&orderByFields=&groupByFieldsForStatistics=&outStatistics=&having=&resultOffset=&resultRecordCount=&returnZ=false&returnM=false&returnTrueCurves=false&returnExceededLimitFeatures=true&quantizationParameters=&sqlFormat=none&f=pgeojson&token=' // Ruta al archivo GeoJSON
             data: 'datos/infraestructura_cientifica.geojson',// Ruta
             cluster: true,
-            clusterMaxZoom: 14, // Max zoom to cluster points on
+            clusterMaxZoom: 10, // Max zoom to cluster points on
             clusterRadius: 20 // Radius of each cluster when clustering points (defaults to 50)
         });
         // Añade la capa al mapa
@@ -59,7 +70,7 @@ export function cargarCapas(map){
                     'step',
                     ['get', 'point_count'],
                     '#000000',  // texto negro para círculos claros
-                    150, '#ffffff'  // texto blanco para círculos oscuros
+                    50, '#ffffff'  // texto blanco para círculos oscuros apartir del rango 50
                     ]               
             }
         });
@@ -71,12 +82,13 @@ export function cargarCapas(map){
             source: 'puntosInfraestructura_Source',
             filter: ['!', ['has', 'point_count']],
             paint: {
-                'circle-color': '#A3E4D7',
+                'circle-color': colorPunto,
                 'circle-radius': 5,
                 'circle-stroke-width': 0.5,
                 'circle-stroke-color': '#000000ff'
             }
         });
+        
         // Evento
         map.on('click', 'infraestructura_layer', async (e) => {
             const features = map.queryRenderedFeatures(e.point, {
@@ -124,29 +136,11 @@ map.on('click', 'infraestructura_layer', async (e) => {
             while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
                 coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
             }
-
-            // Construye el contenido del popup
-            const popupHTML = `
-                <div style="font-family: 'Noto Sans', sans-serif; font-size: 12px; line-height: 1.4;">
-                    <b style="font-size:15px; color:#0E6251;">${nombre}</b><br>
-                    <style="color:#117864;"><b>${categoria}</b></><br>
-                    <i>${subtipo}</i><br>
-                    <style="color:#1B4F72;">${area}</><br>
-                    <br>
-                    ${institucion ? `<div><b>Institución:</b> ${institucion}</div>` : ''}
-                    ${responsable ? `<div><b>Responsable técnico:</b> ${responsable}</div>` : ''}
-                    <br>
-                    ${observaciones ? `<div style="margin-top:4px;"><b>Nota:</b> ${observaciones}</div>` : ''}
-                    <br>
-                    ${estado ? `<div><b>Entidad:</b> ${estado}</div>` : ''}
-                    ${direccion ? `<div><b>Dirección:</b> ${direccion}</div>` : ''}
-                </div>
-            `;
-
+           
             // Muestra el popup
             new maplibregl.Popup()
                 .setLngLat(coordinates)
-                .setHTML(popupHTML)
+                .setHTML(generarPopupHTML(props))
                 .addTo(map);
         });
 

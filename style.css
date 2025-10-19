@@ -1,10 +1,30 @@
 /* estilos default */
-:root{
-    --primary-color: #1E90FF;
-    --primary-dark: #104e8b;
-    --secondary-color: #FF7F50;
-    --secondary-dark: #aa4f2e;
+:root {
+    /* ==== PRIMARIOS ==== */
+    --primary-light: #A3E4D7;      /* Verde agua - fondos suaves */
+    --primary: #48C9B0;            /* Verde turquesa - color principal */
+    --primary-medium: #17A589;     /* Verde intenso - botones, énfasis */
+    --primary-dark: #117864;       /* Verde oscuro - encabezados, barras */
+    --primary-deep: #0E6251;       /* Azul petróleo - hover, acentos */
+
+    /* ==== SECUNDARIOS ==== */
+    --secondary-mint: #D1F2EB;     /* Verde menta - fondos de tarjetas */
+    --secondary-graygreen: #82E0AA;/* Verde grisáceo - bordes suaves */
+    --secondary-emerald: #239B56;  /* Verde esmeralda - iconos secundarios */
+    --secondary-blue: #154360;     /* Azul profundo - botones secundarios */
+
+    /* ==== NEUTROS ==== */
+    --neutral-white: #FFFFFF;      /* Fondo principal */
+    --neutral-light: #F4F6F7;      /* Fondo paneles, aside */
+    --neutral-medium: #BFC9CA;     /* Bordes, texto secundario */
+    --neutral-dark: #424949;       /* Texto principal */
+
+    /* ==== APOYO / ALERTAS ==== */
+    --support-yellow: #F9E79F;     /* Advertencias suaves */
+    --support-red: #E74C3C;        /* Errores */
+    --support-blue: #5DADE2;       /* Información */
 }
+
 /* Variables generales*/
 *{
     margin: 0;
@@ -12,6 +32,8 @@
     box-sizing: border-box;
     font-family: Arial, sans-serif;
 }
+
+
 /* Estilos particulares*/
 
 .contenedorApp {
@@ -20,110 +42,98 @@
 }
 
     header {
-        background-color: var(--primary-color);
         width: 100%;
-        padding: 10px;    
+        padding: 10px;
     }
-
-        .barraNavegacion {
-            display: flex;
-            gap: 10px;
-            align-items: center;
-            flex-wrap: wrap;
-        }
         
-        .boton-vista-nacional {
-            background-color: #117864;
-            color: white;
-            border: none;
-            border-radius: 4px;
-            padding: 6px 12px;
-            font-size: 13px;
-            cursor: pointer;
-            transition: background 0.3s ease;
-        }
-        .boton-vista-nacional:hover {
-            background-color: #0E6251;
-        }
-
-        .maplibregl-popup-close-button {
-            font-size: 25px;         /* 🔹 aumenta el tamaño del ícono “x” */
-            color: #0E6251;          /* 🔹 color institucional */
-            font-weight: bold;       /* 🔹 hace que se vea más visible */
-            top: 4px;                /* 🔹 ajusta separación superior */
-            right: 6px;              /* 🔹 ajusta separación lateral */
-            background: transparent; /* 🔹 sin fondo */
-            border: none;
-            cursor: pointer;
-            transition: color 0.2s ease;
-            }
-            .maplibregl-popup-close-button:hover {
-            color: #117864;          /* 🔹 cambia a verde al pasar el mouse */
-            }
-        
-
-            
     .contenido{
         height:100%;
         width:100%;
         display: flex;
         margin: 10px;
+        
                
     }
-    .btnMenu{
-        display: none;
-    }
-
-
-    aside{
-        border: 1px solid gray;
-        background-color: white;
-        z-index: 1;
-        height: 100%;
-    }
-    .contenedorCategorias{
-        border-bottom: 1px solid gray;
-    }
     
-    #filtroCategorias{
-        margin:12px;
-        padding: 4px;
-        border-radius: 7px;
-        border: 1px solid gray;
-    }
-    .headerLeyenda h3{
-        margin:12px;
-    }
-    .itemLeyenda{
-        display: flex;
-        align-items: center;
-        margin: 5px;
-    }
-    .colorLeyenda{
-        height:12px;
-        width: 12px;
-        margin: 8px;
-        border-radius: 50px;
-        border: 1px solid gray;
-    }
+        aside{
+            /* border: 1px solid gray;
+            background-color: white;
+            z-index: 1;
+            height: 100%; */
+            width: 420px;
+            background: var(--neutral-light);
+            border-right: 1px solid var(--neutral-medium);
+            display: flex;
+            flex-direction: column;
+            padding: 10px;
+            box-sizing: border-box;
+            overflow: hidden;            /* evita que sobresalga el contenido */
+            border: 1px solid var(--neutral-medium);
+            
+        }
+            .boton-vista-nacional {
+                background-color:var(--primary-medium);
+                color: var(--neutral-white);
+                border: none;
+                border-radius: 4px;
+                padding: 6px 12px;
+                font-size: 13px;
+                cursor: pointer;
+                transition: background 0.3s ease;
+            }
+                .boton-vista-nacional:hover {
+                    background-color: var(--primary-deep);
+                }
+                
+        .contenedorCategorias{
+            border-bottom: 1px solid gray;
+        }
+
+        .contenedor {
+            display: flex;
+            align-items: center;     
+            justify-content: space-between; /*flex-start*/
+            padding: 10px 20px;
+            margin-bottom: 15px;
+            border-bottom: 1px solid var(--neutral-medium);
+             
+        }      
+            
+
+        #listaEquipos {
+            flex: 1;
+            overflow-y: auto;
+            padding-right: 4px;
+            }
+
+            .item-equipo {
+            background: var(--neutral-light);
+            border: 1px solid #ddd;
+            border-radius: 6px;
+            padding: 8px;
+            margin-bottom: 8px;
+            cursor: pointer;
+            transition: background 0.2s ease, border-color 0.2s ease;
+            }
+
+            .item-equipo:hover {
+            background: var(--neutral-medium);
+            border-color: var(--primary-dark);
+            }
+    
+        #filtroCategorias{
+            margin:12px;
+            padding: 4px;
+            border-radius: 7px;
+            border: 1px solid var(--neutral-medium);
+        }
+
+
+    
     .contenedorMapa{
         flex:1;
     }
-    .btnFav{
-            position: absolute;
-            z-index:1;
-            width:40px;
-            border: none;
-            display: block;
-            top: 70px;
-            right: 10px;
-            background-color: white;
-            border-radius: 50%;
-            padding: 6px;
-            border: none;
-            cursor: pointer;
-        }
-
+    
 
     #map{
         /*display: flex;
@@ -131,15 +141,54 @@
         align-items: center;*/
         width: 100%;
         height: 100%;
-        border: 1px solid gray;       
+        border: 1px solid var(--neutral-medium);       
 }
 
-.listaFavoritos{
-    position: absolute;
-    top:120px;
-    right:15px;
-    background-color: white;
+
+/* Estilos popup */
+
+.popup-content {
+  font-family: var(--font-base);
+  font-size: 12px;
+  line-height: 1.4;
+  max-width: 280px;
+  color: var(--text-color);
 }
+
+.popup-content b {
+  color: var(--accent-color);
+}
+
+.popup-content .popupTitulo {
+  font-size: 15px;
+  color: var(--primary-dark);
+  display: block;
+  text-align: center;
+  margin-bottom: 4px;
+}
+
+.popup-content .popup-category {
+  color: var(--primary-color);
+  text-align: center;
+}
+
+.popup-content .popup-area {
+  color: var(--primary-dark);
+  text-align: center;
+  margin-bottom: 6px;
+}
+
+    .maplibregl-popup-close-button {
+            font-size: 25px;         
+            color: var(--primary-dark);
+            font-weight: bold;
+            top: 4px;
+            right: 6px;
+            background: transparent;
+            border: none;
+            cursor: pointer;
+            transition: color 0.2s ease;
+        }
 
 /* Reactividad */
 
@@ -153,8 +202,8 @@
         margin: 10px 0;
     }
     .btnMenu{
-        background-color: white;
-        color: gray;
+        background-color: var(--neutral-light);
+        color: var(--neutral-medium);
         width:40px;
         height: 40px;
         border-radius: 20%;

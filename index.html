@@ -14,10 +14,21 @@
         <header>
             <div class="barraNavegacion">
                 <h1>Infraestructura Científica</h1>
+            </div>
+        </header>
+
+
+        <div class="contenido">
+            <!-- Panel lateral -->
+            <aside>
+                <label for="filtroCategorias">Filtrar por subtipo</label>
+                
+
+                <!-- Filtro por categoría -->
                 <div class="contenedorCategorias">
                     <select id="filtroCategorias">
                         <option value="all" selected>Todas las categorías</option>
-                        <option value="Analizadores / Detectores / Monitores">Analizadores / Detectores / Monitores </option>
+                        <option value="Analizadores / Detectores / Monitores">Analizadores / Detectores / Monitores</option>
                         <option value="Confocal / Electrónica / Óptica / Estereoscópica">Confocal / Electrónica / Óptica / Estereoscópica</option>
                         <option value="Procesamiento / Conservación / Esterilización">Procesamiento / Conservación / Esterilización</option>
                         <option value="PCR / qPCR / Secuenciación">PCR / qPCR / Secuenciación</option>
@@ -27,29 +38,30 @@
                         <option value="Sistemas de simulación / Visualización 3D">Sistemas de simulación / Visualización 3D</option>
                         <option value="HPLC / GC / FPLC / UHPLC', 'Potenciostato / Galvanostato">HPLC / GC / FPLC / UHPLC', 'Potenciostato / Galvanostato</option>
                         <option value="Flujo / Fluorescencia', 'Fermentador / Reactor">Flujo / Fluorescencia', 'Fermentador / Reactor</option>
-                        <option value="Impresión 3D / Escaneo', 'Drones / Vehículos / Robots">Impresión 3D / Escaneo', 'Drones / Vehículos / Robots</option>
+                        <option value="Impresión 3D / Escaneo">Impresión 3D / Escaneo</option>
+                        <option value="Drones / Vehículos / Robots">Drones / Vehículos / Robots</option>
                         <option value="Sensores / Estaciones / Plataformas">Sensores / Estaciones / Plataformas</option>
                         <option value="Reometría / Termogravimetría / Calorimetría">Reometría / Termogravimetría / Calorimetría</option>
-                        
                     </select>
+
+                    
+                </div>
+                <div class="contenedor">
+                    <p id="contadorResultados"></p>
+                    <button id="ajuste" class="boton-vista-nacional">Vista nacional</button>
                 </div>
                 
-                <button id="ajuste" class="boton-vista-nacional">
-                    Vista nacional
-                </button>
-                
-            </div>
-        </header>
+                <div id="listaEquipos">
 
+                </div>
+            </aside>
 
-        <div class="contenido">
+            
             <div class="contenedorMapa">
-                <div id="map">
-                    Mapa
-                </div>
-                
+                <div id="map"></div>
             </div>
-        </div>
+            </div>
+
     </div>
     <script type="module" src="main.js"></script>
 </body>
