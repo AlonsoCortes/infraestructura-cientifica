@@ -56,7 +56,7 @@
 
         /* Título */
         .barraNavegacion h1 {
-            font-size: 20px;
+            font-size: 40px;
             color: var(--neutral-dark);
             margin: 0;
         }
@@ -71,7 +71,7 @@
         cursor: pointer;
         transition: background 0.3s ease;
         }
-        .boton-vista-nacional:hover {
+        .boton:hover {
             background-color: var(--primary-deep);
         }
 
