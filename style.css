@@ -26,11 +26,16 @@
 }
 
 /* Variables generales*/
+html {
+  font-size: 16px; /* base común en la mayoría de navegadores */
+}
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: Arial, sans-serif;
+    
 }
 
 
@@ -43,20 +48,20 @@
 
     header {
         width: 100%;
-        padding: 10px;
+        padding: 0.6rem;
     }
 
         .barraNavegacion {
         display: flex;
         align-items: center;       /* centra verticalmente los elementos */
         justify-content: space-between; /* empuja el botón al extremo derecho */
-        padding: 10px 20px;
-        border-bottom: 1px solid var(--neutral-medium);
+        padding: 0.6rem 1.2rem;
+        border-bottom: 0.05rem solid var(--neutral-medium);
     }
 
         /* Título */
         .barraNavegacion h1 {
-            font-size: 40px;
+            font-size: 2rem;
             color: var(--neutral-dark);
             margin: 0;
         }
@@ -65,9 +70,9 @@
         background-color:var(--primary-medium);
         color: var(--neutral-white);
         border: none;
-        border-radius: 4px;
-        padding: 6px 12px;
-        font-size: 13px;
+        border-radius: 1rem;
+        padding: 0.4rem 0.8rem;
+        font-size: 0.8rem;
         cursor: pointer;
         transition: background 0.3s ease;
         }
@@ -81,7 +86,7 @@
         height:100%;
         width:100%;
         display: flex;
-        margin: 10px;
+        margin: 0.6rem;
         
                
     }
@@ -91,31 +96,31 @@
             background-color: white;
             z-index: 1;
             height: 100%; */
-            width: 420px;
+            width: 33%; /*420px*/
             background: var(--neutral-light);
-            border-right: 1px solid var(--neutral-medium);
+            border-right: .0625rem solid var(--neutral-medium);
             display: flex;
             flex-direction: column;
-            padding: 10px;
+            padding: .625rem;
             box-sizing: border-box;
             overflow: hidden;            /* evita que sobresalga el contenido */
-            border: 1px solid var(--neutral-medium);
+            border: .0625rem solid var(--neutral-medium);
             transition: transform 0.3s ease;
             
         }
             
                 
         .contenedorCategorias{
-            border-bottom: 1px solid gray;
+            border-bottom: .0625rem solid gray;
         }
 
         .contenedor {
             display: flex;
             align-items: center;     
             justify-content: space-between; /*flex-start*/
-            padding: 10px 20px;
-            margin-bottom: 15px;
-            border-bottom: 1px solid var(--neutral-medium);
+            padding: .625rem 1.25rem;
+            margin-bottom: .9375rem;
+            border-bottom: .0625rem solid var(--neutral-medium);
              
         }      
             
@@ -123,15 +128,15 @@
         #listaEquipos {
             flex: 1;
             overflow-y: auto;
-            padding-right: 4px;
+            padding-right: .25rem;
             }
 
             .item-equipo {
             background: var(--neutral-light);
-            border: 1px solid #ddd;
-            border-radius: 6px;
-            padding: 8px;
-            margin-bottom: 8px;
+            border: .0625rem solid #ddd;
+            border-radius: .375rem;
+            padding: .5rem;
+            margin-bottom: .5rem;
             cursor: pointer;
             transition: background 0.2s ease, border-color 0.2s ease;
             }
@@ -142,10 +147,10 @@
             }
     
         #filtroCategorias{
-            margin:12px;
-            padding: 4px;
-            border-radius: 7px;
-            border: 1px solid var(--neutral-medium);
+            margin: .75rem;
+            padding: .25rem;
+            border-radius: .4375rem;
+            border: .0625rem solid var(--neutral-medium);
         }
 
 
