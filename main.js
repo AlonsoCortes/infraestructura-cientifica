@@ -3,8 +3,6 @@ import { cargarCapas } from './componentes/02_cargarCapas.js';
 import {filtroCapa} from './componentes/03_filtroDatos.js';
 import {vistaNacional} from './componentes/04_vistaNacional.js'
 
-
-
 // Inicializar mapa
 const map = inicializarMapa();
 // Cargar capas de puntos de interés
