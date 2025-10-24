@@ -185,11 +185,11 @@ html {
 }
 
 .popup-content .popupTitulo {
-  font-size: 15px;
+  font-size: 16px;
   color: var(--primary-dark);
   display: block;
   text-align: center;
-  margin-bottom: 4px;
+  margin-bottom: .25rem;
 }
 
 .popup-content .popup-category {
@@ -200,15 +200,15 @@ html {
 .popup-content .popup-area {
   color: var(--primary-dark);
   text-align: center;
-  margin-bottom: 6px;
+  margin-bottom: .375rem;
 }
 
     .maplibregl-popup-close-button {
-            font-size: 25px;         
+            font-size: 1.5625rem;         
             color: var(--primary-dark);
             font-weight: bold;
-            top: 4px;
-            right: 6px;
+            top: .25rem;
+            right: .375rem;
             background: transparent;
             border: none;
             cursor: pointer;
@@ -228,7 +228,7 @@ html {
             padding: 0px;
         }
             .barraNavegacion h1 {
-                    font-size: 17px;
+                    font-size: 1rem;
                 }
 
         aside {

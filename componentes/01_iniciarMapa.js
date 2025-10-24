@@ -6,10 +6,12 @@
 // 4. define la posición inicial del mapa (coordenadas del usuario)
 // 5. define el nivel de zoom inicial del mapa (12)
 
+import { PRIVATE_CONFIG } from './config.local.js';
+
 export function inicializarMapa() {
     return new maplibregl.Map({
         container: 'map', // container id
-        style: 'https://api.maptiler.com/maps/openstreetmap/style.json?key=856Op4RTOftvrOLrid4O', // style URL
+        style: `https://api.maptiler.com/maps/openstreetmap/style.json?key=${PRIVATE_CONFIG.MAPTILER_KEY}`, // style URL
         center: [-102.00870492534635, 22.88244675595126], // starting position [lng, lat] 22.88244675595126, -102.00870492534635
         zoom: 4.5 // starting zoom
     });

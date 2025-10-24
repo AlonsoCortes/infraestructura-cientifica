@@ -3,3 +3,6 @@
 *.ipynb
 *.csv
 *.xlsx
+
+# MapTiler api key
+config.local.js
